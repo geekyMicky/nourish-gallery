@@ -1,0 +1,5992 @@
+{
+  "items": [
+    {
+      "id": "book-001",
+      "title": "洛丽塔",
+      "en": "Lolita",
+      "kind": "书籍",
+      "genre": "小说 / 欲望与操控",
+      "tags": [
+        "丝绒玫瑰",
+        "乳香"
+      ],
+      "quadrants": [
+        "幽微"
+      ],
+      "summary": "纳博科夫让不可靠叙述者用华丽语言粉饰自己；真正的阅读张力在于识破他。",
+      "rec": "先被文笔诱惑，再被自己的不适感叫醒。",
+      "year": "1955",
+      "creatorZh": "弗拉基米爾·納博科夫",
+      "creatorEn": "Vladimir Nabokov",
+      "creatorRole": "作者",
+      "image": "https://covers.openlibrary.org/b/id/12984540-L.jpg",
+      "pending": false
+    },
+    {
+      "id": "book-002",
+      "title": "野性的呼唤",
+      "en": "The Call of the Wild",
+      "kind": "书籍",
+      "genre": "小说 / 自然冒险",
+      "tags": [
+        "雪松",
+        "旧皮革"
+      ],
+      "quadrants": [
+        "幽微"
+      ],
+      "summary": "一只家犬被卷入淘金时代的北方荒野，逐渐听见体内更古老的召唤。",
+      "rec": "短、冷、野：很适合在想逃离城市时读。",
+      "year": "",
+      "creatorZh": "",
+      "creatorEn": "",
+      "creatorRole": "",
+      "image": "https://covers.openlibrary.org/b/id/12393037-L.jpg",
+      "pending": false
+    },
+    {
+      "id": "book-003",
+      "title": "白鲸",
+      "en": "Moby-Dick",
+      "kind": "书籍",
+      "genre": "小说 / 海洋史诗",
+      "tags": [
+        "冷杉",
+        "乳香"
+      ],
+      "quadrants": [
+        "幽微",
+        "华丽"
+      ],
+      "summary": "以实玛利登上捕鲸船，见证亚哈船长把复仇变成吞噬所有人的宗教。",
+      "rec": "不要急着征服它；让它像海一样慢慢包围你。",
+      "year": "1851（原著）",
+      "creatorZh": "赫尔曼·梅尔维尔（著）／成时（译）",
+      "creatorEn": "Herman Melville / Cheng Shi",
+      "creatorRole": "作者／译者",
+      "image": "https://covers.openlibrary.org/b/id/10544254-L.jpg",
+      "pending": false
+    },
+    {
+      "id": "book-004",
+      "title": "康拉德",
+      "en": "Joseph Conrad: A Life / 作品选",
+      "kind": "书籍",
+      "genre": "文学 / 作者入口",
+      "tags": [
+        "烟草",
+        "冷杉"
+      ],
+      "quadrants": [
+        "幽微"
+      ],
+      "summary": "从殖民、海洋与道德阴影切入康拉德的小说世界。",
+      "rec": "读完《黑暗的心》后回头看，会更有层次。",
+      "year": "",
+      "creatorZh": "",
+      "creatorEn": "",
+      "creatorRole": "",
+      "image": "resources/Nourish_media/book-004.jpg",
+      "pending": false
+    },
+    {
+      "id": "book-005",
+      "title": "走路的历史",
+      "en": "A History of Walking",
+      "kind": "书籍",
+      "genre": "文化史",
+      "tags": [
+        "香根草",
+        "旧皮革"
+      ],
+      "quadrants": [
+        "幽微"
+      ],
+      "summary": "把走路从日常动作还原为阶级、性别、城市与自由的政治。",
+      "rec": "读它以后，散步会重新变成一种立场。",
+      "year": "",
+      "creatorZh": "",
+      "creatorEn": "",
+      "creatorRole": "",
+      "image": "resources/Nourish_media/book-005.jpg",
+      "pending": false
+    },
+    {
+      "id": "book-006",
+      "title": "魂断威尼斯",
+      "en": "Death in Venice",
+      "kind": "影视",
+      "genre": "电影 / 剧情 / 文学改编",
+      "tags": [
+        "鸢尾根",
+        "乳香"
+      ],
+      "quadrants": [
+        "华丽",
+        "幽微"
+      ],
+      "summary": "卢基诺·维斯康蒂将托马斯·曼的小说改编为一部关于艺术、美、衰老与失控欲望的威尼斯挽歌。",
+      "rec": "盛夏午后读，像一杯带苦味的冰酒；请把它当作电影，而非原著小说条目。",
+      "year": "1971",
+      "creatorZh": "卢基诺·维斯康蒂",
+      "creatorEn": "Luchino Visconti",
+      "creatorRole": "导演",
+      "image": "https://cdn.posteritati.com/posters/000/000/062/771/death-in-venice-md-web.jpg",
+      "pending": false
+    },
+    {
+      "id": "book-007",
+      "title": "大师",
+      "en": "The Master",
+      "kind": "书籍",
+      "genre": "小说 / 文学人物",
+      "tags": [
+        "羊皮纸",
+        "紫罗兰"
+      ],
+      "quadrants": [
+        "幽微"
+      ],
+      "summary": "科尔姆·托宾以亨利·詹姆斯为中心，写艺术家的孤独、隐秘与未说出口的人生。",
+      "rec": "安静、克制，却在细处极锋利；适合慢读。",
+      "year": "2004",
+      "creatorZh": "科尔姆·托宾",
+      "creatorEn": "Colm Tóibín",
+      "creatorRole": "作者",
+      "image": "https://covers.openlibrary.org/b/id/198368-L.jpg",
+      "pending": false
+    },
+    {
+      "id": "book-008",
+      "title": "斑驳日常",
+      "en": "",
+      "kind": "书籍",
+      "genre": "散文 / 香港城市书写",
+      "tags": [
+        "焙茶",
+        "桂花"
+      ],
+      "quadrants": [
+        "幽微",
+        "华丽"
+      ],
+      "summary": "邓小桦把《明报》专栏的日常片段结成一册：独居、关系、城市议题与微小的情绪起伏。",
+      "rec": "像在香港的光影里慢慢散步，轻，却有哲思的回声。",
+      "year": "2008",
+      "creatorZh": "邓小桦",
+      "creatorEn": "Tang Siu-wa",
+      "creatorRole": "作者",
+      "image": "resources/Nourish_media/book-008.jpg",
+      "pending": false
+    },
+    {
+      "id": "book-009",
+      "title": "17岁，成为星或兽的季节",
+      "en": "Astral Seasons, Beastly Seasons",
+      "kind": "书籍",
+      "genre": "小说 / 日本青春文学",
+      "tags": [
+        "无花果",
+        "青苹果"
+      ],
+      "quadrants": [
+        "青涩"
+      ],
+      "summary": "最果夕日的小说处女作：少年们把追逐偶像、孤独与自我怀疑，过成一场高纯度的成长焦虑。",
+      "rec": "不粉饰青春；它像一封写给十七岁的、锋利而私密的信。",
+      "year": "2019",
+      "creatorZh": "最果夕日",
+      "creatorEn": "Tahi Saihate",
+      "creatorRole": "作者",
+      "image": "https://covers.openlibrary.org/b/id/10960965-L.jpg",
+      "pending": false
+    },
+    {
+      "id": "book-010",
+      "title": "纸钞屋",
+      "en": "Money Heist",
+      "kind": "影视",
+      "genre": "剧集 / 惊悚犯罪 / 5季",
+      "tags": [
+        "冷杉",
+        "威士忌"
+      ],
+      "quadrants": [
+        "凛冽",
+        "暗涌"
+      ],
+      "summary": "一名自称“教授”的策划者召集八名劫匪，连环挑战西班牙皇家铸币厂与国家银行。",
+      "rec": "红色连体服、达利面具、极高密度反转：一开就很难停。",
+      "year": "2017–2021",
+      "creatorZh": "阿莱克斯·皮纳",
+      "creatorEn": "Álex Pina",
+      "creatorRole": "主创",
+      "image": "resources/Nourish_media/book-010.jpg",
+      "pending": false
+    },
+    {
+      "id": "book-011",
+      "title": "青春之歌",
+      "en": "Song of Youth",
+      "kind": "书籍",
+      "genre": "小说 / 中国现代文学",
+      "tags": [
+        "青苹果",
+        "沉香"
+      ],
+      "quadrants": [
+        "青涩"
+      ],
+      "summary": "以知识青年投身革命为线索，保留了时代理想与个人情感的拉扯。",
+      "rec": "读的是青春，也是一代人的语言温度。",
+      "year": "1958",
+      "creatorZh": "杨沫",
+      "creatorEn": "Yang Mo",
+      "creatorRole": "作者",
+      "image": "resources/Nourish_media/book-011.jpg",
+      "pending": false
+    },
+    {
+      "id": "book-012",
+      "title": "海边的曼彻斯特",
+      "en": "Manchester by the Sea",
+      "kind": "影视",
+      "genre": "剧本/影视条目",
+      "tags": [
+        "冷杉",
+        "焙茶"
+      ],
+      "quadrants": [
+        "幽微",
+        "华丽"
+      ],
+      "summary": "更可能是电影条目；已在影视页归档。",
+      "rec": "留作电影夜的重击。",
+      "year": "",
+      "creatorZh": "",
+      "creatorEn": "",
+      "creatorRole": "",
+      "image": "resources/Nourish_media/book-012.jpg",
+      "pending": false
+    },
+    {
+      "id": "book-013",
+      "title": "纪念天使协奏曲",
+      "en": "Concerto to the Memory of an Angel",
+      "kind": "书籍",
+      "genre": "短篇小说集 / 法国文学",
+      "tags": [
+        "紫罗兰",
+        "焙茶"
+      ],
+      "quadrants": [
+        "幽微"
+      ],
+      "summary": "埃里克-埃马纽埃尔·施米特以几个陡转的故事，写人在命运岔路上如何选择、背叛与被原谅。",
+      "rec": "欧·亨利式的意外，兼有契诃夫式的悲悯；每篇读完都想停一会儿。",
+      "year": "2010",
+      "creatorZh": "埃里克-埃马纽埃尔·施米特",
+      "creatorEn": "Éric-Emmanuel Schmitt",
+      "creatorRole": "作者",
+      "image": "https://covers.openlibrary.org/b/id/7726745-L.jpg",
+      "pending": false
+    },
+    {
+      "id": "book-014",
+      "title": "霍乱时期的爱情",
+      "en": "Love in the Time of Cholera",
+      "kind": "书籍",
+      "genre": "小说 / 爱情",
+      "tags": [
+        "丝绒玫瑰",
+        "乳香"
+      ],
+      "quadrants": [
+        "华丽"
+      ],
+      "summary": "一段被时间拉长数十年的爱情，既浪漫又带着执念与自我欺骗。",
+      "rec": "不是甜的爱情小说，是热带气候里的慢性病。",
+      "year": "",
+      "creatorZh": "",
+      "creatorEn": "",
+      "creatorRole": "",
+      "image": "resources/Nourish_media/book-014.jpg",
+      "pending": false
+    },
+    {
+      "id": "book-015",
+      "title": "亨利五世",
+      "en": "Henry V",
+      "kind": "书籍",
+      "genre": "戏剧 / 莎士比亚",
+      "tags": [
+        "旧皮革",
+        "威士忌"
+      ],
+      "quadrants": [
+        "幽微"
+      ],
+      "summary": "王权、战争和煽动性演说在战场上交锋。",
+      "rec": "想看莎翁如何把“领导力”写得既耀眼又可疑。",
+      "year": "",
+      "creatorZh": "",
+      "creatorEn": "",
+      "creatorRole": "",
+      "image": "https://covers.openlibrary.org/b/id/7420215-L.jpg",
+      "pending": false
+    },
+    {
+      "id": "book-016",
+      "title": "此时此地",
+      "en": "Here and Now",
+      "kind": "影视",
+      "genre": "剧集 / HBO 家庭剧情",
+      "tags": [
+        "香根草",
+        "冷杉"
+      ],
+      "quadrants": [
+        "温柔"
+      ],
+      "summary": "艾伦·鲍尔笔下的多族裔家庭，在日常裂缝、身份焦虑与难以解释的幻象中彼此试探。",
+      "rec": "不是轻盈的家庭剧；适合想看当代焦虑被拍得诡异又亲密时选它。",
+      "year": "2018",
+      "creatorZh": "艾伦·鲍尔",
+      "creatorEn": "Alan Ball",
+      "creatorRole": "主创",
+      "image": "resources/Nourish_media/book-016.jpg",
+      "pending": false
+    },
+    {
+      "id": "book-017",
+      "title": "美洲小宇宙",
+      "en": "American Microcosm",
+      "kind": "书籍",
+      "genre": "游记 / 中南美洲",
+      "tags": [
+        "雪松",
+        "旧皮革"
+      ],
+      "quadrants": [
+        "凛冽"
+      ],
+      "summary": "毕淑敏以中南美洲旅途为线索，写自然、人文、历史遗迹与人在异地的感受。",
+      "rec": "把它当作不赶行程的远行：看见陌生，也重新校准自己的尺度。",
+      "year": "2017",
+      "creatorZh": "毕淑敏",
+      "creatorEn": "Bi Shumin",
+      "creatorRole": "作者",
+      "image": "resources/Nourish_media/book-017.jpg",
+      "pending": false
+    },
+    {
+      "id": "book-018",
+      "title": "帕佩撒旦阿莱佩",
+      "en": "Pape Satan Aleppe",
+      "kind": "书籍",
+      "genre": "随笔 / 翁贝托·埃科",
+      "tags": [
+        "黑咖啡",
+        "威士忌"
+      ],
+      "quadrants": [
+        "幽微"
+      ],
+      "summary": "埃科最后的报刊随笔，漫游媒体、网络与公共生活的荒诞。",
+      "rec": "毒舌而清醒，像和最博学的朋友喝咖啡。",
+      "year": "",
+      "creatorZh": "",
+      "creatorEn": "",
+      "creatorRole": "",
+      "image": "resources/Nourish_media/book-018.jpg",
+      "pending": false
+    },
+    {
+      "id": "book-019",
+      "title": "查令十字街84号",
+      "en": "84, Charing Cross Road",
+      "kind": "书籍",
+      "genre": "书信集",
+      "tags": [
+        "羊皮纸",
+        "烤栗子"
+      ],
+      "quadrants": [
+        "幽微"
+      ],
+      "summary": "跨越大西洋的买书通信，把阅读、友谊与伦敦书店写得极有体温。",
+      "rec": "书迷的理想约会：短、暖、会想立刻买书。",
+      "year": "",
+      "creatorZh": "",
+      "creatorEn": "",
+      "creatorRole": "",
+      "image": "https://covers.openlibrary.org/b/id/95718-L.jpg",
+      "pending": false
+    },
+    {
+      "id": "book-020",
+      "title": "英国人的言行潜规则",
+      "en": "Watching the English",
+      "kind": "书籍",
+      "genre": "社会观察",
+      "tags": [
+        "焙茶",
+        "威士忌"
+      ],
+      "quadrants": [
+        "幽微"
+      ],
+      "summary": "从排队、天气和玩笑拆解英国人的阶层密码。",
+      "rec": "去英国前读，能少错过一半潜台词。",
+      "year": "",
+      "creatorZh": "",
+      "creatorEn": "",
+      "creatorRole": "",
+      "image": "https://covers.openlibrary.org/b/id/5167849-L.jpg",
+      "pending": false
+    },
+    {
+      "id": "book-021",
+      "title": "Beijing Consensus",
+      "en": "The Beijing Consensus",
+      "kind": "书籍",
+      "genre": "政治经济",
+      "tags": [
+        "杜松子",
+        "沉香"
+      ],
+      "quadrants": [
+        "幽微"
+      ],
+      "summary": "讨论中国发展路径及其与“华盛顿共识”的张力。",
+      "rec": "观点鲜明，最好与反方材料一起读。",
+      "year": "",
+      "creatorZh": "",
+      "creatorEn": "",
+      "creatorRole": "",
+      "image": "https://covers.openlibrary.org/b/id/8622447-L.jpg",
+      "pending": false
+    },
+    {
+      "id": "book-022",
+      "title": "女客",
+      "en": "The Female Guest",
+      "kind": "书籍",
+      "genre": "小说 / 当代中国文学",
+      "tags": [
+        "桂花",
+        "紫罗兰"
+      ],
+      "quadrants": [
+        "幽微"
+      ],
+      "summary": "尚姝含以湖南江永女书为题材，写两位都市女性在情感困惑与自我寻找中的相遇与回望。",
+      "rec": "把地方女性文字传统带回现代生活；适合想读女性经验如何彼此照见时选它。",
+      "year": "2007",
+      "creatorZh": "尚姝含",
+      "creatorEn": "Shang Shuhan",
+      "creatorRole": "作者",
+      "image": "",
+      "pending": false
+    },
+    {
+      "id": "book-023",
+      "title": "专家之死",
+      "en": "The Death of Expertise",
+      "kind": "书籍",
+      "genre": "非虚构 / 公共知识",
+      "tags": [
+        "香根草",
+        "威士忌"
+      ],
+      "quadrants": [
+        "幽微"
+      ],
+      "summary": "讨论反智主义、网络意见与专业权威为何彼此失去信任。",
+      "rec": "读完会更认真地区分“有观点”和“有证据”。",
+      "year": "",
+      "creatorZh": "",
+      "creatorEn": "",
+      "creatorRole": "",
+      "image": "https://covers.openlibrary.org/b/id/14456978-L.jpg",
+      "pending": false
+    },
+    {
+      "id": "book-024",
+      "title": "谣言：世界最古老的传媒",
+      "en": "Rumors: The World’s Oldest Media",
+      "kind": "书籍",
+      "genre": "传播学 / 社会学",
+      "tags": [
+        "冷杉",
+        "威士忌"
+      ],
+      "quadrants": [
+        "幽微"
+      ],
+      "summary": "让-诺埃尔·卡普费雷追问谣言怎样诞生、流传与被利用；它既是恐惧的回声，也可能是反权力的信息。",
+      "rec": "在信息过载的当下读，会重新理解“大家都在说”的重量。",
+      "year": "1987",
+      "creatorZh": "让-诺埃尔·卡普费雷",
+      "creatorEn": "Jean-Noël Kapferer",
+      "creatorRole": "作者",
+      "image": "resources/Nourish_media/book-024.jpg",
+      "pending": false
+    },
+    {
+      "id": "book-025",
+      "title": "去往猴面包树的旅程",
+      "en": "The Expedition to the Baobab Tree",
+      "kind": "书籍",
+      "genre": "南非小说 / 南非荷兰语文学",
+      "tags": [
+        "旧皮革",
+        "乳香"
+      ],
+      "quadrants": [
+        "幽微"
+      ],
+      "summary": "一位老年女奴是失败远征的唯一幸存者，栖身猴面包树的树洞，在孤绝中回望被掳、服役与流离的一生。",
+      "rec": "像寓言，也像一场荒野里的记忆回声：短，却有极大的荒凉。",
+      "year": "1981",
+      "creatorZh": "威尔玛·斯托肯斯特罗姆",
+      "creatorEn": "Wilma Stockenström",
+      "creatorRole": "作者",
+      "image": "https://covers.openlibrary.org/b/id/11629495-L.jpg",
+      "pending": false
+    },
+    {
+      "id": "book-026",
+      "title": "索尔仁尼琴",
+      "en": "Aleksandr Solzhenitsyn: 作品选",
+      "kind": "书籍",
+      "genre": "文学 / 俄苏经验",
+      "tags": [
+        "沉香",
+        "乳香"
+      ],
+      "quadrants": [
+        "幽微"
+      ],
+      "summary": "从个人苦难出发，追问极权、良知与记忆。",
+      "rec": "硬，但会把“历史”重新压回你身上。",
+      "year": "",
+      "creatorZh": "",
+      "creatorEn": "",
+      "creatorRole": "",
+      "image": "resources/Nourish_media/book-026.jpg",
+      "pending": false
+    },
+    {
+      "id": "book-027",
+      "title": "红楼梦",
+      "en": "Dream of the Red Chamber",
+      "kind": "书籍",
+      "genre": "古典小说",
+      "tags": [
+        "晚香玉",
+        "沉香",
+        "乳香"
+      ],
+      "quadrants": [
+        "华丽",
+        "幽微"
+      ],
+      "summary": "贾府繁华与崩塌之间，写情、欲望、女性命运和一整个世界的细部。",
+      "rec": "中文小说的宇宙；任何年龄读都有新房间。",
+      "year": "",
+      "creatorZh": "",
+      "creatorEn": "",
+      "creatorRole": "",
+      "image": "https://covers.openlibrary.org/b/id/9481887-L.jpg",
+      "pending": false
+    },
+    {
+      "id": "book-028",
+      "title": "约翰·克里斯朵夫",
+      "en": "Jean-Christophe",
+      "kind": "书籍",
+      "genre": "成长小说",
+      "tags": [
+        "青苹果",
+        "雪松"
+      ],
+      "quadrants": [
+        "青涩"
+      ],
+      "summary": "一位音乐家在时代与自我之间寻找精神自由。",
+      "rec": "适合需要一点长篇意志力的时候。",
+      "year": "",
+      "creatorZh": "",
+      "creatorEn": "",
+      "creatorRole": "",
+      "image": "https://covers.openlibrary.org/b/id/6847156-L.jpg",
+      "pending": false
+    },
+    {
+      "id": "book-029",
+      "title": "一的力量",
+      "en": "The Power of One",
+      "kind": "书籍",
+      "genre": "成长小说",
+      "tags": [
+        "青苹果",
+        "旧皮革"
+      ],
+      "quadrants": [
+        "青涩"
+      ],
+      "summary": "南非背景下，一个男孩在暴力和偏见中寻找声音与位置。",
+      "rec": "励志但不轻飘，读完很提气。",
+      "year": "",
+      "creatorZh": "",
+      "creatorEn": "",
+      "creatorRole": "",
+      "image": "https://covers.openlibrary.org/b/id/6459205-L.jpg",
+      "pending": false
+    },
+    {
+      "id": "book-030",
+      "title": "碎成十二片的心",
+      "en": "Black Vodka",
+      "kind": "书籍",
+      "genre": "短篇小说集 / 英国当代文学",
+      "tags": [
+        "威士忌",
+        "紫罗兰"
+      ],
+      "quadrants": [
+        "幽微"
+      ],
+      "summary": "德博拉·利维以十篇短篇小说穿行于爱、孤独、暴力与归属；每一篇都像一小杯冷冽而浓烈的伏特加。",
+      "rec": "短、怪、锋利，适合一篇一篇地读，让余味自己发作。",
+      "year": "2013",
+      "creatorZh": "德博拉·利维",
+      "creatorEn": "Deborah Levy",
+      "creatorRole": "作者",
+      "image": "https://covers.openlibrary.org/b/id/8850216-L.jpg",
+      "pending": false
+    },
+    {
+      "id": "book-031",
+      "title": "未央歌",
+      "en": "The Unending Song",
+      "kind": "书籍",
+      "genre": "小说 / 校园青春",
+      "tags": [
+        "白桃",
+        "青苹果"
+      ],
+      "quadrants": [
+        "青涩"
+      ],
+      "summary": "战时大学校园里的青春、理想与群像。",
+      "rec": "如果喜欢慢慢铺开的旧式青春，这是宝藏。",
+      "year": "",
+      "creatorZh": "",
+      "creatorEn": "",
+      "creatorRole": "",
+      "image": "resources/Nourish_media/book-031.jpg",
+      "pending": false
+    },
+    {
+      "id": "book-032",
+      "title": "世界的渡口：蓝蓝诗集",
+      "en": "The Crossings of the World",
+      "kind": "书籍",
+      "genre": "诗集",
+      "tags": [
+        "焙茶",
+        "竹叶"
+      ],
+      "quadrants": [
+        "幽微",
+        "华丽"
+      ],
+      "summary": "蓝蓝的诗以日常、身体和远方建立细小而开阔的感受。",
+      "rec": "适合睡前一两首，让语言降噪。",
+      "year": "",
+      "creatorZh": "",
+      "creatorEn": "",
+      "creatorRole": "",
+      "image": "",
+      "pending": false
+    },
+    {
+      "id": "book-033",
+      "title": "厌女：日本的女性嫌恶",
+      "en": "Misogyny",
+      "kind": "书籍",
+      "genre": "女性主义 / 社会学",
+      "tags": [
+        "香根草",
+        "威士忌"
+      ],
+      "quadrants": [
+        "幽微"
+      ],
+      "summary": "上野千鹤子从日本社会的性别秩序出发，拆解女性如何被厌弃、也如何被迫内化厌女。",
+      "rec": "不轻松，却能给许多模糊的不适感一个锋利的名字。",
+      "year": "2015",
+      "creatorZh": "上野千鹤子",
+      "creatorEn": "Chizuko Ueno",
+      "creatorRole": "作者",
+      "image": "resources/Nourish_media/book-033.jpg",
+      "pending": false
+    },
+    {
+      "id": "book-034",
+      "title": "故土的陌生人",
+      "en": "Strangers to Their Native Land",
+      "kind": "书籍",
+      "genre": "非虚构 / 社会",
+      "tags": [
+        "旧皮革",
+        "焙茶"
+      ],
+      "quadrants": [
+        "幽微"
+      ],
+      "summary": "关于归属、迁徙与“故乡”被重新定义的经验。",
+      "rec": "适合和身份焦虑一起读。",
+      "year": "",
+      "creatorZh": "",
+      "creatorEn": "",
+      "creatorRole": "",
+      "image": "resources/Nourish_media/book-034.jpg",
+      "pending": false
+    },
+    {
+      "id": "book-035",
+      "title": "电影冷知识",
+      "en": "Movie Trivia",
+      "kind": "影视",
+      "genre": "电影入门",
+      "tags": [
+        "羊皮纸",
+        "黑咖啡"
+      ],
+      "quadrants": [
+        "幽微"
+      ],
+      "summary": "用短知识点打开电影史、类型与幕后。",
+      "rec": "轻松热身，适合观影前翻两页。",
+      "year": "",
+      "creatorZh": "",
+      "creatorEn": "",
+      "creatorRole": "",
+      "image": "resources/Nourish_media/book-035.jpg",
+      "pending": false
+    },
+    {
+      "id": "book-036",
+      "title": "风沙星辰",
+      "en": "Wind, Sand and Stars",
+      "kind": "书籍",
+      "genre": "回忆录 / 飞行",
+      "tags": [
+        "雪松",
+        "旧皮革"
+      ],
+      "quadrants": [
+        "幽微"
+      ],
+      "summary": "圣埃克苏佩里把飞行、沙漠和人的责任感写成诗意哲学。",
+      "rec": "比《小王子》更辽阔，也更成熟。",
+      "year": "1939",
+      "creatorZh": "安托万·德·圣埃克苏佩里",
+      "creatorEn": "Antoine de Saint-Exupéry",
+      "creatorRole": "作者",
+      "image": "resources/Nourish_media/book-036.jpg",
+      "pending": false
+    },
+    {
+      "id": "book-037",
+      "title": "中国哲学简史",
+      "en": "A Short History of Chinese Philosophy",
+      "kind": "书籍",
+      "genre": "哲学史 / 冯友兰",
+      "tags": [
+        "竹叶",
+        "檀香"
+      ],
+      "quadrants": [
+        "幽微"
+      ],
+      "summary": "用清晰叙事勾勒中国哲学的主要问题与流派。",
+      "rec": "很好的入口：先搭地图，再挑山头爬。",
+      "year": "1948",
+      "creatorZh": "冯友兰",
+      "creatorEn": "Feng Youlan",
+      "creatorRole": "作者",
+      "image": "https://covers.openlibrary.org/b/id/12212207-L.jpg",
+      "pending": false
+    },
+    {
+      "id": "book-038",
+      "title": "写在身体上",
+      "en": "Written on the Body",
+      "kind": "书籍",
+      "genre": "小说 / 珍妮特·温特森",
+      "tags": [
+        "丝绒玫瑰",
+        "乳香"
+      ],
+      "quadrants": [
+        "幽微"
+      ],
+      "summary": "无性别叙述者以炽热语言讲述欲望、疾病与失去。",
+      "rec": "像一封太美、以至于会烫手的情书。",
+      "year": "",
+      "creatorZh": "",
+      "creatorEn": "",
+      "creatorRole": "",
+      "image": "https://covers.openlibrary.org/b/id/1047225-L.jpg",
+      "pending": false
+    },
+    {
+      "id": "book-039",
+      "title": "沉思录",
+      "en": "Meditations",
+      "kind": "书籍",
+      "genre": "哲学 / 斯多葛",
+      "tags": [
+        "檀香",
+        "香根草"
+      ],
+      "quadrants": [
+        "幽微"
+      ],
+      "summary": "罗马皇帝写给自己的道德练习：如何面对变化、愤怒与死亡。",
+      "rec": "不是鸡汤，是把自己校准回现实。",
+      "year": "",
+      "creatorZh": "",
+      "creatorEn": "",
+      "creatorRole": "",
+      "image": "https://covers.openlibrary.org/b/id/211529-L.jpg",
+      "pending": false
+    },
+    {
+      "id": "book-040",
+      "title": "审查官手记",
+      "en": "The Inquisitors’ Manual",
+      "kind": "书籍",
+      "genre": "葡萄牙长篇小说",
+      "tags": [
+        "沉香",
+        "威士忌"
+      ],
+      "quadrants": [
+        "幽微"
+      ],
+      "summary": "安东尼奥·洛博·安图内斯以多声部叙述回望萨拉查政权余影下的家族、权力与记忆。",
+      "rec": "这不是顺读型小说；让那些声音互相打断，才会听见权力如何渗进私人生活。",
+      "year": "1996",
+      "creatorZh": "安东尼奥·洛博·安图内斯",
+      "creatorEn": "António Lobo Antunes",
+      "creatorRole": "作者",
+      "image": "resources/Nourish_media/book-040.jpg",
+      "pending": false
+    },
+    {
+      "id": "book-041",
+      "title": "社会心理学",
+      "en": "Social Psychology",
+      "kind": "书籍",
+      "genre": "心理学",
+      "tags": [
+        "羊皮纸",
+        "香根草"
+      ],
+      "quadrants": [
+        "幽微"
+      ],
+      "summary": "从从众、偏见、亲密关系到群体行为的经典基础框架。",
+      "rec": "看完会更懂别人，也更警惕自己。",
+      "year": "",
+      "creatorZh": "",
+      "creatorEn": "",
+      "creatorRole": "",
+      "image": "https://covers.openlibrary.org/b/id/137851-L.jpg",
+      "pending": false
+    },
+    {
+      "id": "book-042",
+      "title": "世界的苦难：布尔迪厄的社会调查",
+      "en": "The Weight of the World",
+      "kind": "书籍",
+      "genre": "社会学 / 布尔迪厄",
+      "tags": [
+        "冷杉",
+        "沉香"
+      ],
+      "quadrants": [
+        "幽微"
+      ],
+      "summary": "由访谈构成的社会痛感档案，看结构如何进入个体生活。",
+      "rec": "沉重却必要：让“个人问题”显出系统轮廓。",
+      "year": "",
+      "creatorZh": "",
+      "creatorEn": "",
+      "creatorRole": "",
+      "image": "resources/Nourish_media/book-042.jpg",
+      "pending": false
+    },
+    {
+      "id": "book-043",
+      "title": "哈姆雷特",
+      "en": "Hamlet",
+      "kind": "书籍",
+      "genre": "戏剧 / 莎士比亚",
+      "tags": [
+        "乳香",
+        "威士忌"
+      ],
+      "quadrants": [
+        "幽微"
+      ],
+      "summary": "一位王子在复仇、怀疑与表演之间不断延宕。",
+      "rec": "每次读都像在听一个人把自己逼到墙角。",
+      "year": "",
+      "creatorZh": "",
+      "creatorEn": "",
+      "creatorRole": "",
+      "image": "https://covers.openlibrary.org/b/id/8281954-L.jpg",
+      "pending": false
+    },
+    {
+      "id": "book-044",
+      "title": "史记",
+      "en": "Records of the Grand Historian",
+      "kind": "书籍",
+      "genre": "史学 / 司马迁",
+      "tags": [
+        "羊皮纸",
+        "沉香"
+      ],
+      "quadrants": [
+        "幽微"
+      ],
+      "summary": "以人物、事件和命运编织出中国早期历史的巨大叙事。",
+      "rec": "从列传开始读，会比从本纪更容易上瘾。",
+      "year": "约前91年",
+      "creatorZh": "司马迁",
+      "creatorEn": "Sima Qian",
+      "creatorRole": "作者",
+      "image": "resources/Nourish_media/book-044.jpg",
+      "pending": false
+    },
+    {
+      "id": "book-045",
+      "title": "鼠疫",
+      "en": "The Plague",
+      "kind": "书籍",
+      "genre": "小说 / 加缪",
+      "tags": [
+        "冷杉",
+        "乳香"
+      ],
+      "quadrants": [
+        "幽微"
+      ],
+      "summary": "瘟疫降临奥兰城，人们在荒诞中选择逃避、爱与共同抵抗。",
+      "rec": "冷静到残酷，也温柔到有力量。",
+      "year": "1947",
+      "creatorZh": "阿尔贝·加缪",
+      "creatorEn": "Albert Camus",
+      "creatorRole": "作者",
+      "image": "https://covers.openlibrary.org/b/id/745331-L.jpg",
+      "pending": false
+    },
+    {
+      "id": "book-046",
+      "title": "城南旧事",
+      "en": "My Memories of Old Beijing",
+      "kind": "书籍",
+      "genre": "小说 / 林海音",
+      "tags": [
+        "桂花",
+        "焙茶"
+      ],
+      "quadrants": [
+        "幽微",
+        "华丽"
+      ],
+      "summary": "孩童视角下的旧北京，温柔地看见离别、贫困和成长。",
+      "rec": "读完像落了一层薄灰，却很亮。",
+      "year": "",
+      "creatorZh": "",
+      "creatorEn": "",
+      "creatorRole": "",
+      "image": "resources/Nourish_media/book-046.jpg",
+      "pending": false
+    },
+    {
+      "id": "book-047",
+      "title": "乞力马扎罗的雪",
+      "en": "The Snows of Kilimanjaro",
+      "kind": "书籍",
+      "genre": "短篇小说 / 海明威",
+      "tags": [
+        "雪松",
+        "烟草"
+      ],
+      "quadrants": [
+        "幽微",
+        "华丽"
+      ],
+      "summary": "濒死作家回望未完成的写作、欲望与遗憾。",
+      "rec": "短篇的高压氧舱：一口气读完。",
+      "year": "",
+      "creatorZh": "",
+      "creatorEn": "",
+      "creatorRole": "",
+      "image": "https://covers.openlibrary.org/b/id/75458-L.jpg",
+      "pending": false
+    },
+    {
+      "id": "book-048",
+      "title": "都柏林人",
+      "en": "Dubliners",
+      "kind": "书籍",
+      "genre": "短篇小说 / 乔伊斯",
+      "tags": [
+        "冷杉",
+        "焙茶"
+      ],
+      "quadrants": [
+        "幽微"
+      ],
+      "summary": "十五个故事把城市日常写成精神停滞与突然醒悟。",
+      "rec": "《死者》结尾值得为它单独留一夜。",
+      "year": "",
+      "creatorZh": "",
+      "creatorEn": "",
+      "creatorRole": "",
+      "image": "https://covers.openlibrary.org/b/id/8216412-L.jpg",
+      "pending": false
+    },
+    {
+      "id": "book-049",
+      "title": "变形记",
+      "en": "The Metamorphosis",
+      "kind": "书籍",
+      "genre": "中篇小说 / 卡夫卡",
+      "tags": [
+        "杜松子",
+        "冷杉"
+      ],
+      "quadrants": [
+        "幽微"
+      ],
+      "summary": "格里高尔醒来变成甲虫，家庭关系的残酷随之显影。",
+      "rec": "荒诞得精准，像噩梦里最清楚的钟声。",
+      "year": "",
+      "creatorZh": "",
+      "creatorEn": "",
+      "creatorRole": "",
+      "image": "resources/Nourish_media/book-049.jpg",
+      "pending": false
+    },
+    {
+      "id": "book-050",
+      "title": "拜占庭的新生：从拉丁世界到东方帝国",
+      "en": "Byzantium: The Early Centuries",
+      "kind": "书籍",
+      "genre": "历史 / 拜占庭三部曲",
+      "tags": [
+        "沉香",
+        "旧皮革"
+      ],
+      "quadrants": [
+        "幽微"
+      ],
+      "summary": "约翰·朱利叶斯·诺里奇从拉丁世界与东方帝国的交界处，讲述拜占庭最初数世纪的重建、扩张与权力斗争。",
+      "rec": "适合配地图慢读；它把帝国史讲得像一部人物繁多的长篇。",
+      "year": "1988",
+      "creatorZh": "约翰·朱利叶斯·诺里奇",
+      "creatorEn": "John Julius Norwich",
+      "creatorRole": "作者",
+      "image": "https://covers.openlibrary.org/b/id/94675-L.jpg",
+      "pending": false
+    },
+    {
+      "id": "book-051",
+      "title": "不正义的多重面孔",
+      "en": "The Many Faces of Injustice",
+      "kind": "书籍",
+      "genre": "政治哲学",
+      "tags": [
+        "香根草",
+        "檀香"
+      ],
+      "quadrants": [
+        "幽微"
+      ],
+      "summary": "从制度、承认与分配等角度讨论何为不正义。",
+      "rec": "概念多，但会让新闻看起来更有结构。",
+      "year": "2020",
+      "creatorZh": "朱迪丝·N. 施克莱",
+      "creatorEn": "Judith N. Shklar",
+      "creatorRole": "作者",
+      "image": "resources/Nourish_media/book-051.jpg",
+      "pending": false
+    },
+    {
+      "id": "book-052",
+      "title": "大众的反叛",
+      "en": "The Revolt of the Masses",
+      "kind": "书籍",
+      "genre": "社会思想 / 奥尔特加",
+      "tags": [
+        "威士忌",
+        "沉香"
+      ],
+      "quadrants": [
+        "幽微"
+      ],
+      "summary": "讨论大众社会如何改变精英、文化与政治。",
+      "rec": "带着时代偏见读，依然很刺激。",
+      "year": "1930",
+      "creatorZh": "何塞·奥尔特加·加塞特",
+      "creatorEn": "José Ortega y Gasset",
+      "creatorRole": "作者",
+      "image": "resources/Nourish_media/book-052.jpg",
+      "pending": false
+    },
+    {
+      "id": "book-053",
+      "title": "父权制与资本主义",
+      "en": "Patriarchy and Capitalism",
+      "kind": "书籍",
+      "genre": "女性主义理论",
+      "tags": [
+        "香根草",
+        "沉香"
+      ],
+      "quadrants": [
+        "幽微"
+      ],
+      "summary": "考察性别支配与经济体系如何相互支撑。",
+      "rec": "读它，给很多“理所当然”装上问号。",
+      "year": "2020",
+      "creatorZh": "上野千鹤子",
+      "creatorEn": "Chizuko Ueno",
+      "creatorRole": "作者",
+      "image": "resources/Nourish_media/book-053.jpg",
+      "pending": false
+    },
+    {
+      "id": "book-054",
+      "title": "剑桥文艺复兴哲学史",
+      "en": "The Cambridge History of Renaissance Philosophy",
+      "kind": "书籍",
+      "genre": "哲学史",
+      "tags": [
+        "羊皮纸",
+        "乳香"
+      ],
+      "quadrants": [
+        "幽微"
+      ],
+      "summary": "文艺复兴时期思想、科学与宗教转型的学术地图。",
+      "rec": "工具书式好读法：按兴趣拆章。",
+      "year": "1988",
+      "creatorZh": "查尔斯·B. 施密特、昆廷·斯金纳",
+      "creatorEn": "Charles B. Schmitt / Quentin Skinner",
+      "creatorRole": "主编",
+      "image": "https://covers.openlibrary.org/b/id/336718-L.jpg",
+      "pending": false
+    },
+    {
+      "id": "book-055",
+      "title": "九面之城：纽约的冲突与野心",
+      "en": "The Nine Faces of New York",
+      "kind": "书籍",
+      "genre": "城市史",
+      "tags": [
+        "黑咖啡",
+        "冷杉"
+      ],
+      "quadrants": [
+        "幽微"
+      ],
+      "summary": "从多个切面理解纽约的资本、移民、冲突与欲望。",
+      "rec": "适合一边看地图一边读。",
+      "year": "2010",
+      "creatorZh": "乔安妮·雷塔诺",
+      "creatorEn": "Joanne Reitano",
+      "creatorRole": "作者",
+      "image": "resources/Nourish_media/book-055.jpg",
+      "pending": false
+    },
+    {
+      "id": "book-056",
+      "title": "士与大变动时代",
+      "en": "Scholars in an Age of Great Change",
+      "kind": "书籍",
+      "genre": "中国近代史研究 / 论文集",
+      "tags": [
+        "羊皮纸",
+        "沉香"
+      ],
+      "quadrants": [
+        "幽微"
+      ],
+      "summary": "沈渭滨以鸦片战争、太平天国、辛亥革命与近代知识分子的形成等议题，勾勒士大夫在剧变中的心路与选择。",
+      "rec": "它用人物与思想穿透大叙事，读完会更能感到“时代”如何落在具体的人身上。",
+      "year": "2020",
+      "creatorZh": "沈渭滨",
+      "creatorEn": "Shen Weibin",
+      "creatorRole": "作者",
+      "image": "resources/Nourish_media/book-056.jpg",
+      "pending": false
+    },
+    {
+      "id": "book-057",
+      "title": "音乐的故事",
+      "en": "The Story of Music",
+      "kind": "书籍",
+      "genre": "音乐史",
+      "tags": [
+        "鸢尾根",
+        "羊皮纸"
+      ],
+      "quadrants": [
+        "幽微",
+        "华丽"
+      ],
+      "summary": "从古典到当代，用聆听线索串起音乐史。",
+      "rec": "边读边建播放列表，效果翻倍。",
+      "year": "",
+      "creatorZh": "",
+      "creatorEn": "",
+      "creatorRole": "",
+      "image": "https://covers.openlibrary.org/b/id/6797362-L.jpg",
+      "pending": false
+    },
+    {
+      "id": "book-058",
+      "title": "知更鸟传",
+      "en": "To Kill a Mockingbird",
+      "kind": "书籍",
+      "genre": "小说 / 哈珀·李",
+      "tags": [
+        "青苹果",
+        "乳香"
+      ],
+      "quadrants": [
+        "幽微"
+      ],
+      "summary": "孩子眼中的美国南方，种族不公与道德勇气同时出现。",
+      "rec": "温柔却不天真，是一本会长大的书。",
+      "year": "",
+      "creatorZh": "",
+      "creatorEn": "",
+      "creatorRole": "",
+      "image": "https://covers.openlibrary.org/b/id/14351077-L.jpg",
+      "pending": false
+    },
+    {
+      "id": "book-059",
+      "title": "家庭的牵绊：关于家庭关系的思考",
+      "en": "家族関係を考える",
+      "kind": "书籍",
+      "genre": "临床心理学 / 家庭关系",
+      "tags": [
+        "洋甘菊",
+        "檀香"
+      ],
+      "quadrants": [
+        "温柔"
+      ],
+      "summary": "河合隼雄从父母、子女与亲密关系的深层心理出发，思考现代家庭为何失衡，以及关系如何重新被理解。",
+      "rec": "没有万能的家庭处方；它更像一盏灯，照见每个家的不同难题。",
+      "year": "2020（中译本）",
+      "creatorZh": "河合隼雄",
+      "creatorEn": "Hayao Kawai",
+      "creatorRole": "作者",
+      "image": "resources/Nourish_media/book-059.jpg",
+      "pending": false
+    },
+    {
+      "id": "book-060",
+      "title": "控制论与科学方法论",
+      "en": "Cybernetics and Scientific Methodology",
+      "kind": "书籍",
+      "genre": "科学哲学",
+      "tags": [
+        "杜松子",
+        "羊皮纸"
+      ],
+      "quadrants": [
+        "幽微"
+      ],
+      "summary": "以系统、反馈和方法为中心的理论读物。",
+      "rec": "有些硬，但很适合训练结构化思考。",
+      "year": "2025（修订版）",
+      "creatorZh": "金观涛、华国凡",
+      "creatorEn": "Jin Guantao / Hua Guofan",
+      "creatorRole": "作者",
+      "image": "resources/Nourish_media/book-060.jpg",
+      "pending": false
+    },
+    {
+      "id": "book-061",
+      "title": "当我谈跑步时，我谈些什么",
+      "en": "What I Talk About When I Talk About Running",
+      "kind": "书籍",
+      "genre": "随笔 / 村上春树",
+      "tags": [
+        "雪松",
+        "香根草"
+      ],
+      "quadrants": [
+        "幽微"
+      ],
+      "summary": "跑步与写作彼此映照，谈自律、孤独和长期主义。",
+      "rec": "不跑步也会读得很顺。",
+      "year": "",
+      "creatorZh": "",
+      "creatorEn": "",
+      "creatorRole": "",
+      "image": "https://covers.openlibrary.org/b/id/13185830-L.jpg",
+      "pending": false
+    },
+    {
+      "id": "book-062",
+      "title": "偏见的本质",
+      "en": "The Nature of Prejudice",
+      "kind": "书籍",
+      "genre": "社会心理学 / 奥尔波特",
+      "tags": [
+        "香根草",
+        "羊皮纸"
+      ],
+      "quadrants": [
+        "幽微"
+      ],
+      "summary": "经典地解释偏见如何形成、固化与被改变。",
+      "rec": "读它会让“偏见”从骂人词变成可分析的问题。",
+      "year": "",
+      "creatorZh": "",
+      "creatorEn": "",
+      "creatorRole": "",
+      "image": "https://covers.openlibrary.org/b/id/4405426-L.jpg",
+      "pending": false
+    },
+    {
+      "id": "book-063",
+      "title": "研究生完全求生手册",
+      "en": "The Graduate School Survival Guide",
+      "kind": "书籍",
+      "genre": "实用 / 学术生活",
+      "tags": [
+        "黑咖啡",
+        "洋甘菊"
+      ],
+      "quadrants": [
+        "幽微"
+      ],
+      "summary": "关于研究、写作与心理负担的生存工具包。",
+      "rec": "焦虑时翻它，比硬扛有效。",
+      "year": "",
+      "creatorZh": "",
+      "creatorEn": "",
+      "creatorRole": "",
+      "image": "resources/Nourish_media/book-063.jpg",
+      "pending": false
+    },
+    {
+      "id": "book-064",
+      "title": "我心归处是敦煌",
+      "en": "My Heart Belongs to Dunhuang",
+      "kind": "书籍",
+      "genre": "传记/艺术",
+      "tags": [
+        "焙茶",
+        "沉香"
+      ],
+      "quadrants": [
+        "幽微",
+        "华丽"
+      ],
+      "summary": "围绕敦煌守护者樊锦诗的人生与石窟事业。",
+      "rec": "让“文化遗产”从名词变成一个人一生的选择。",
+      "year": "2019",
+      "creatorZh": "樊锦诗、顾春芳",
+      "creatorEn": "Fan Jinshi / Gu Chunfang",
+      "creatorRole": "作者",
+      "image": "resources/Nourish_media/book-064.jpg",
+      "pending": false
+    },
+    {
+      "id": "book-065",
+      "title": "人类的群星闪耀时",
+      "en": "Decisive Moments in History",
+      "kind": "书籍",
+      "genre": "历史散文 / 茨威格",
+      "tags": [
+        "沉香",
+        "威士忌"
+      ],
+      "quadrants": [
+        "幽微"
+      ],
+      "summary": "用戏剧性瞬间捕捉历史被偶然推动的时刻。",
+      "rec": "历史的好入口：像读命运短篇集。",
+      "year": "",
+      "creatorZh": "",
+      "creatorEn": "",
+      "creatorRole": "",
+      "image": "https://covers.openlibrary.org/b/id/822495-L.jpg",
+      "pending": false
+    },
+    {
+      "id": "book-066",
+      "title": "情绪跟你以为的不一样",
+      "en": "How Emotions Are Made: The Secret Life of the Brain",
+      "kind": "书籍",
+      "genre": "心理学 / 情绪科学",
+      "tags": [
+        "羊皮纸",
+        "香根草"
+      ],
+      "quadrants": [
+        "幽微"
+      ],
+      "summary": "丽莎·费德曼·巴瑞特以“情绪建构论”挑战情绪由固定脑区、天生触发的传统观念，解释大脑如何在身体、情境与文化中造出感受。",
+      "rec": "它会把“我为什么会这样感觉”从玄学，变成一次清醒而有趣的大脑探险。",
+      "year": "2025（畅销改版）",
+      "creatorZh": "丽莎·费德曼·巴瑞特",
+      "creatorEn": "Lisa Feldman Barrett",
+      "creatorRole": "作者",
+      "image": "https://covers.openlibrary.org/b/id/8467965-L.jpg",
+      "pending": false
+    },
+    {
+      "id": "book-067",
+      "title": "莎菲女士的日记",
+      "en": "Miss Sophia’s Diary",
+      "kind": "书籍",
+      "genre": "小说 / 丁玲",
+      "tags": [
+        "紫罗兰",
+        "威士忌"
+      ],
+      "quadrants": [
+        "幽微"
+      ],
+      "summary": "以第一人称写女性欲望、烦闷与自我意识的诞生。",
+      "rec": "锋利得不像年代作品。",
+      "year": "1928",
+      "creatorZh": "丁玲",
+      "creatorEn": "Ding Ling",
+      "creatorRole": "作者",
+      "image": "resources/Nourish_media/book-067.jpg",
+      "pending": false
+    },
+    {
+      "id": "book-068",
+      "title": "生活黑客",
+      "en": "Hacking Life: Systematized Living and Its Discontents",
+      "kind": "书籍",
+      "genre": "非虚构 / 数字文化 / 自我优化",
+      "tags": [
+        "杜松子",
+        "香根草"
+      ],
+      "quadrants": [
+        "幽微"
+      ],
+      "summary": "约瑟夫·M. 小雷格尔考察“生活黑客”如何把时间、健康、物品、关系乃至意义当成可拆解、测试与优化的系统，也审视这种思维的限度。",
+      "rec": "它不是效率秘笈，而是一次对“把人生变成项目管理”冲动的冷静体检。",
+      "year": "2020（中文版）",
+      "creatorZh": "约瑟夫·M. 小雷格尔",
+      "creatorEn": "Joseph M. Reagle, Jr.",
+      "creatorRole": "作者",
+      "image": "resources/Nourish_media/book-068.jpg",
+      "pending": false
+    },
+    {
+      "id": "book-069",
+      "title": "终身成长",
+      "en": "Mindset",
+      "kind": "书籍",
+      "genre": "心理学 / 卡罗尔·德韦克",
+      "tags": [
+        "青苹果",
+        "香根草"
+      ],
+      "quadrants": [
+        "青涩"
+      ],
+      "summary": "区分固定型与成长型思维，讨论信念如何影响学习与选择。",
+      "rec": "概念流行但实用；读时留心别把它变成自责。",
+      "year": "",
+      "creatorZh": "",
+      "creatorEn": "",
+      "creatorRole": "",
+      "image": "https://covers.openlibrary.org/b/id/746414-L.jpg",
+      "pending": false
+    },
+    {
+      "id": "book-070",
+      "title": "谁动了我的奶酪？",
+      "en": "Who Moved My Cheese?",
+      "kind": "书籍",
+      "genre": "寓言 / 职场",
+      "tags": [
+        "青苹果",
+        "洋甘菊"
+      ],
+      "quadrants": [
+        "幽微"
+      ],
+      "summary": "用迷宫和奶酪讲变化、恐惧与适应。",
+      "rec": "半小时读完；把它当提醒，不必当圣经。",
+      "year": "",
+      "creatorZh": "",
+      "creatorEn": "",
+      "creatorRole": "",
+      "image": "https://covers.openlibrary.org/b/id/258839-L.jpg",
+      "pending": false
+    },
+    {
+      "id": "book-071",
+      "title": "如何停止不开心：负面情绪整理手册",
+      "en": "How to Stop Feeling Like Sh*t",
+      "kind": "书籍",
+      "genre": "心理自助 / 情绪整理",
+      "tags": [
+        "洋甘菊",
+        "香根草"
+      ],
+      "quadrants": [
+        "幽微"
+      ],
+      "summary": "安德烈娅·欧文从自我否定、过度讨好与关系边界入手，给出整理负面情绪的练习与行动框架。",
+      "rec": "不卖“积极”，专门处理那些让人反复卡住的内耗。",
+      "year": "2018（原著）",
+      "creatorZh": "安德烈娅·欧文",
+      "creatorEn": "Andrea Owen",
+      "creatorRole": "作者",
+      "image": "https://covers.openlibrary.org/b/id/14777563-L.jpg",
+      "pending": false
+    },
+    {
+      "id": "book-072",
+      "title": "活下去的理由",
+      "en": "Reasons to Stay Alive",
+      "kind": "书籍",
+      "genre": "回忆录 / 马特·海格",
+      "tags": [
+        "洋甘菊",
+        "焙茶"
+      ],
+      "quadrants": [
+        "幽微",
+        "华丽"
+      ],
+      "summary": "作者坦诚写抑郁、恐慌与仍然选择活下去的日子。",
+      "rec": "轻轻地读；它会陪你而不是说教。",
+      "year": "",
+      "creatorZh": "",
+      "creatorEn": "",
+      "creatorRole": "",
+      "image": "https://covers.openlibrary.org/b/id/12639532-L.jpg",
+      "pending": false
+    },
+    {
+      "id": "book-073",
+      "title": "城市的语言",
+      "en": "The Language of Cities",
+      "kind": "书籍",
+      "genre": "城市 / 建筑",
+      "tags": [
+        "冷杉",
+        "黑咖啡"
+      ],
+      "quadrants": [
+        "幽微"
+      ],
+      "summary": "从街道、招牌、空间与人群理解城市如何说话。",
+      "rec": "适合带着它去散步。",
+      "year": "",
+      "creatorZh": "",
+      "creatorEn": "",
+      "creatorRole": "",
+      "image": "https://covers.openlibrary.org/b/id/13054788-L.jpg",
+      "pending": false
+    },
+    {
+      "id": "book-074",
+      "title": "失落的卫星",
+      "en": "Lost Satellites",
+      "kind": "书籍",
+      "genre": "非虚构 / 刘子超",
+      "tags": [
+        "旧皮革",
+        "沉香"
+      ],
+      "quadrants": [
+        "幽微"
+      ],
+      "summary": "沿中亚与前苏联边缘地带旅行，追索帝国余波与个人故事。",
+      "rec": "地理、历史与人情缠在一起，极耐读。",
+      "year": "2020",
+      "creatorZh": "刘子超",
+      "creatorEn": "Liu Zichao",
+      "creatorRole": "作者",
+      "image": "resources/Nourish_media/book-074.jpg",
+      "pending": false
+    },
+    {
+      "id": "book-075",
+      "title": "什么是民粹主义",
+      "en": "What Is Populism?",
+      "kind": "书籍",
+      "genre": "政治学 / 扬-维尔纳·米勒",
+      "tags": [
+        "威士忌",
+        "香根草"
+      ],
+      "quadrants": [
+        "幽微"
+      ],
+      "summary": "简洁厘清民粹主义的核心逻辑与民主风险。",
+      "rec": "小册子，大视野；新闻阅读的滤镜。",
+      "year": "",
+      "creatorZh": "",
+      "creatorEn": "",
+      "creatorRole": "",
+      "image": "https://covers.openlibrary.org/b/id/10837590-L.jpg",
+      "pending": false
+    },
+    {
+      "id": "book-076",
+      "title": "走出唯一真理观",
+      "en": "Beyond the One Truth",
+      "kind": "书籍",
+      "genre": "自选文集 / 哲学",
+      "tags": [
+        "竹叶",
+        "香根草"
+      ],
+      "quadrants": [
+        "幽微"
+      ],
+      "summary": "陈嘉映收录 2007—2018 年的演讲、访谈与评论，主张放弃“唯一性”，坚持“真理性”。",
+      "rec": "当你想摆脱非黑即白，它会给思考留出更宽的呼吸。",
+      "year": "2020",
+      "creatorZh": "陈嘉映",
+      "creatorEn": "Chen Jiaying",
+      "creatorRole": "作者",
+      "image": "resources/Nourish_media/book-076.jpg",
+      "pending": false
+    },
+    {
+      "id": "book-077",
+      "title": "我们的孩子",
+      "en": "Our Kids",
+      "kind": "书籍",
+      "genre": "社会学 / 罗伯特·帕特南",
+      "tags": [
+        "冷杉",
+        "乳香"
+      ],
+      "quadrants": [
+        "幽微"
+      ],
+      "summary": "追踪美国阶层差距如何重塑儿童机会。",
+      "rec": "让“努力”二字的背景变得可见。",
+      "year": "",
+      "creatorZh": "",
+      "creatorEn": "",
+      "creatorRole": "",
+      "image": "https://covers.openlibrary.org/b/id/7336156-L.jpg",
+      "pending": false
+    },
+    {
+      "id": "book-078",
+      "title": "浮出历史地表：现代妇女文学研究",
+      "en": "Surfacing from the Historical Ground",
+      "kind": "书籍",
+      "genre": "文学研究 / 中国现代女性文学",
+      "tags": [
+        "沉香",
+        "紫罗兰"
+      ],
+      "quadrants": [
+        "幽微"
+      ],
+      "summary": "孟悦与戴锦华合著，以现代女性文学为线索，重新勘探被主流叙事遮蔽的历史地层。",
+      "rec": "读它像把一条被压低的文学谱系重新调到清晰音量。",
+      "year": "1989",
+      "creatorZh": "孟悦、戴锦华",
+      "creatorEn": "Meng Yue / Dai Jinhua",
+      "creatorRole": "作者",
+      "image": "resources/Nourish_media/book-078.jpg",
+      "pending": false
+    },
+    {
+      "id": "book-079",
+      "title": "从文自传",
+      "en": "Autobiography of Shen Congwen",
+      "kind": "书籍",
+      "genre": "自传 / 沈从文",
+      "tags": [
+        "桂花",
+        "竹叶"
+      ],
+      "quadrants": [
+        "幽微"
+      ],
+      "summary": "以清澈笔触回望湘西、成长和写作的来处。",
+      "rec": "想认识沈从文，从这里进门最自然。",
+      "year": "",
+      "creatorZh": "",
+      "creatorEn": "",
+      "creatorRole": "",
+      "image": "resources/Nourish_media/book-079.jpg",
+      "pending": false
+    },
+    {
+      "id": "book-080",
+      "title": "那些忧伤的年轻人",
+      "en": "These Sad Young Men",
+      "kind": "书籍",
+      "genre": "短篇小说 / F. S. 菲茨杰拉德",
+      "tags": [
+        "烟草",
+        "紫罗兰"
+      ],
+      "quadrants": [
+        "幽微"
+      ],
+      "summary": "爵士时代的年轻人被爱情、金钱和幻灭轻轻割伤。",
+      "rec": "适合在派对之后读。",
+      "year": "",
+      "creatorZh": "",
+      "creatorEn": "",
+      "creatorRole": "",
+      "image": "resources/Nourish_media/book-080.jpg",
+      "pending": false
+    },
+    {
+      "id": "book-081",
+      "title": "津轻",
+      "en": "Tsugaru",
+      "kind": "书籍",
+      "genre": "旅行随笔 / 太宰治",
+      "tags": [
+        "焙茶",
+        "雪松"
+      ],
+      "quadrants": [
+        "幽微"
+      ],
+      "summary": "作家回到故乡，沿途写亲情、羞耻与人与土地的关系。",
+      "rec": "比《人间失格》更松弛、更有人味。",
+      "year": "",
+      "creatorZh": "",
+      "creatorEn": "",
+      "creatorRole": "",
+      "image": "resources/Nourish_media/book-081.jpg",
+      "pending": false
+    },
+    {
+      "id": "book-082",
+      "title": "岛",
+      "en": "Island",
+      "kind": "书籍",
+      "genre": "小说 / 赫胥黎",
+      "tags": [
+        "竹叶",
+        "杜松子"
+      ],
+      "quadrants": [
+        "幽微"
+      ],
+      "summary": "一座理想岛屿与外部世界冲突，成为乌托邦的最后试验。",
+      "rec": "读完会想讨论：好社会到底怎么运转？",
+      "year": "",
+      "creatorZh": "",
+      "creatorEn": "",
+      "creatorRole": "",
+      "image": "resources/Nourish_media/book-082.jpg",
+      "pending": false
+    },
+    {
+      "id": "book-083",
+      "title": "推拿",
+      "en": "Massage",
+      "kind": "书籍",
+      "genre": "小说 / 毕飞宇",
+      "tags": [
+        "冷杉",
+        "丝绒玫瑰"
+      ],
+      "quadrants": [
+        "幽微"
+      ],
+      "summary": "盲人推拿师群像，写身体、欲望、尊严与现实压力。",
+      "rec": "感官很强，人物会留在你身上。",
+      "year": "",
+      "creatorZh": "",
+      "creatorEn": "",
+      "creatorRole": "",
+      "image": "resources/Nourish_media/book-083.jpg",
+      "pending": false
+    },
+    {
+      "id": "book-084",
+      "title": "大地上的居所",
+      "en": "Residence on Earth",
+      "kind": "书籍",
+      "genre": "诗集 / 拉丁美洲文学",
+      "tags": [
+        "乳香",
+        "冷杉"
+      ],
+      "quadrants": [
+        "幽微",
+        "华丽"
+      ],
+      "summary": "聂鲁达 1925 至 1935 年间的诗作，以超现实意象、欲望与孤独勘探人与大地之间的幽暗关系。",
+      "rec": "不是明媚的聂鲁达；在低气压的夜晚读，它会慢慢打开。",
+      "year": "2020（中译本）",
+      "creatorZh": "巴勃罗·聂鲁达",
+      "creatorEn": "Pablo Neruda",
+      "creatorRole": "作者",
+      "image": "resources/Nourish_media/book-084.jpg",
+      "pending": false
+    },
+    {
+      "id": "book-085",
+      "title": "中国哲学文献选编",
+      "en": "Sources of Chinese Tradition / Chinese Philosophy Reader",
+      "kind": "书籍",
+      "genre": "哲学文献",
+      "tags": [
+        "羊皮纸",
+        "竹叶"
+      ],
+      "quadrants": [
+        "幽微"
+      ],
+      "summary": "以原典片段进入中国思想传统。",
+      "rec": "适合与《中国哲学简史》搭配：地图加原文。",
+      "year": "",
+      "creatorZh": "",
+      "creatorEn": "",
+      "creatorRole": "",
+      "image": "resources/Nourish_media/book-085.jpg",
+      "pending": false
+    },
+    {
+      "id": "book-086",
+      "title": "无能的人",
+      "en": "Nowhere Man",
+      "kind": "影视",
+      "genre": "电影 / 日本 / 黑色幽默",
+      "tags": [
+        "冷杉",
+        "黑咖啡"
+      ],
+      "quadrants": [
+        "幽微"
+      ],
+      "summary": "竹中直人首执导作品，改编自柘植义春漫画：一名潦倒漫画家转行捡石头，在荒诞日常里与失败共处。",
+      "rec": "冷到近乎无表情的幽默，越看越能感到它的刺。",
+      "year": "1991",
+      "creatorZh": "竹中直人",
+      "creatorEn": "Naoto Takenaka",
+      "creatorRole": "导演",
+      "image": "resources/Nourish_media/book-086.jpg",
+      "pending": false
+    },
+    {
+      "id": "book-087",
+      "title": "苹果住了",
+      "en": "Apples Live Here",
+      "kind": "书籍",
+      "genre": "小说待核",
+      "tags": [
+        "白桃"
+      ],
+      "quadrants": [
+        "幽微"
+      ],
+      "summary": "题名疑为识别误差或小众出版物。",
+      "rec": "优先从封面、作者或出版社复查。",
+      "year": "",
+      "creatorZh": "",
+      "creatorEn": "",
+      "creatorRole": "",
+      "image": "",
+      "pending": true
+    },
+    {
+      "id": "book-088",
+      "title": "阿米亥诗选",
+      "en": "Selected Poems of Yehuda Amichai",
+      "kind": "书籍",
+      "genre": "诗集",
+      "tags": [
+        "焙茶",
+        "乳香"
+      ],
+      "quadrants": [
+        "幽微",
+        "华丽"
+      ],
+      "summary": "以日常、战争与耶路撒冷写极简而有穿透力的诗。",
+      "rec": "读几首就够，它们会在心里自己继续。",
+      "year": "",
+      "creatorZh": "",
+      "creatorEn": "",
+      "creatorRole": "",
+      "image": "resources/Nourish_media/book-088.jpg",
+      "pending": false
+    },
+    {
+      "id": "book-089",
+      "title": "我的朋友阿波罗",
+      "en": "The Friend",
+      "kind": "书籍",
+      "genre": "小说 / 美国当代文学",
+      "tags": [
+        "洋甘菊",
+        "焙茶"
+      ],
+      "quadrants": [
+        "幽微"
+      ],
+      "summary": "西格丽德·努涅斯借一位作家、一位逝去的朋友和一只大丹犬，写失去、写作与重新安放自己。",
+      "rec": "不煽情，却很会陪人在悲伤里慢慢复原。",
+      "year": "2020（中译本）",
+      "creatorZh": "西格丽德·努涅斯",
+      "creatorEn": "Sigrid Nunez",
+      "creatorRole": "作者",
+      "image": "resources/Nourish_media/book-089.jpg",
+      "pending": false
+    },
+    {
+      "id": "book-090",
+      "title": "思想是生活的一种方式：中国近代思想史的再思考",
+      "en": "Thought as a Way of Life",
+      "kind": "书籍",
+      "genre": "思想史",
+      "tags": [
+        "羊皮纸",
+        "香根草"
+      ],
+      "quadrants": [
+        "幽微"
+      ],
+      "summary": "从生活实践而非抽象观念理解中国近代思想转型。",
+      "rec": "适合慢读，顺手画人物与概念关系图。",
+      "year": "",
+      "creatorZh": "",
+      "creatorEn": "",
+      "creatorRole": "",
+      "image": "resources/Nourish_media/book-090.jpg",
+      "pending": false
+    },
+    {
+      "id": "book-091",
+      "title": "人生的智慧",
+      "en": "The Wisdom of Life",
+      "kind": "书籍",
+      "genre": "哲学 / 叔本华",
+      "tags": [
+        "檀香",
+        "香根草"
+      ],
+      "quadrants": [
+        "幽微"
+      ],
+      "summary": "谈幸福、性格、名望与孤独的务实人生论。",
+      "rec": "毒舌但管用，适合心烦时读几页。",
+      "year": "",
+      "creatorZh": "",
+      "creatorEn": "",
+      "creatorRole": "",
+      "image": "resources/Nourish_media/book-091.jpg",
+      "pending": false
+    },
+    {
+      "id": "book-092",
+      "title": "人类善恶小史",
+      "en": "The Atlas of Good and Evil",
+      "kind": "书籍",
+      "genre": "历史随笔 / 图文",
+      "tags": [
+        "沉香",
+        "乳香"
+      ],
+      "quadrants": [
+        "幽微"
+      ],
+      "summary": "以地图册式的故事横跨五大洲，在历史细节中观看人性的至善与至暗，而不急着给出裁决。",
+      "rec": "适合随手翻读：每一则都把抽象的善恶拉回具体的人。",
+      "year": "2020（中译本）",
+      "creatorZh": "策妄·阿拉布坦",
+      "creatorEn": "Cewang Arabtan",
+      "creatorRole": "作者",
+      "image": "resources/Nourish_media/book-092.jpg",
+      "pending": false
+    },
+    {
+      "id": "book-093",
+      "title": "孤寂深渊",
+      "en": "The Well of Loneliness",
+      "kind": "书籍",
+      "genre": "小说 / 英国现代文学",
+      "tags": [
+        "紫罗兰",
+        "乳香"
+      ],
+      "quadrants": [
+        "幽微"
+      ],
+      "summary": "拉德克利夫·霍尔的半自传小说，以史蒂芬·戈登的一生直面性别、欲望与被社会隔绝的孤独。",
+      "rec": "一部曾经引发审判的小说；它的克制，比控诉更有穿透力。",
+      "year": "1928（原著）",
+      "creatorZh": "拉德克利夫·霍尔",
+      "creatorEn": "Radclyffe Hall",
+      "creatorRole": "作者",
+      "image": "resources/Nourish_media/book-093.jpg",
+      "pending": false
+    },
+    {
+      "id": "book-094",
+      "title": "所罗门王的指环",
+      "en": "King Solomon’s Ring",
+      "kind": "书籍",
+      "genre": "动物行为学 / 洛伦茨",
+      "tags": [
+        "竹叶",
+        "羊皮纸"
+      ],
+      "quadrants": [
+        "幽微"
+      ],
+      "summary": "通过动物观察谈本能、行为和人与自然的关系。",
+      "rec": "会让你重新看猫、鸟和自己。",
+      "year": "",
+      "creatorZh": "",
+      "creatorEn": "",
+      "creatorRole": "",
+      "image": "resources/Nourish_media/book-094.jpg",
+      "pending": false
+    },
+    {
+      "id": "book-095",
+      "title": "政治学的邀请",
+      "en": "An Invitation to Political Science",
+      "kind": "书籍",
+      "genre": "政治学入门",
+      "tags": [
+        "香根草",
+        "威士忌"
+      ],
+      "quadrants": [
+        "幽微"
+      ],
+      "summary": "用核心问题带你进入权力、制度与公共选择。",
+      "rec": "给“我不懂政治”一个温和入口。",
+      "year": "",
+      "creatorZh": "",
+      "creatorEn": "",
+      "creatorRole": "",
+      "image": "resources/Nourish_media/book-095.jpg",
+      "pending": false
+    },
+    {
+      "id": "book-096",
+      "title": "民主，中国如何选择",
+      "en": "Democracy: China’s Choices",
+      "kind": "书籍",
+      "genre": "政治学 / 中国研究",
+      "tags": [
+        "香根草",
+        "沉香"
+      ],
+      "quadrants": [
+        "幽微"
+      ],
+      "summary": "郑永年比较不同民主与民主化路径，讨论中国制度语境中的民主问题与可能性。",
+      "rec": "带着不同立场材料并读，才能看见概念如何被使用。",
+      "year": "2017（增订版）",
+      "creatorZh": "郑永年",
+      "creatorEn": "Zheng Yongnian",
+      "creatorRole": "作者",
+      "image": "",
+      "pending": false
+    },
+    {
+      "id": "book-097",
+      "title": "边缘人纪事",
+      "en": "Chronicles of Marginal People",
+      "kind": "书籍",
+      "genre": "纪实/社会",
+      "tags": [
+        "冷杉",
+        "烟草"
+      ],
+      "quadrants": [
+        "幽微"
+      ],
+      "summary": "从边缘位置观察城市、阶层和个人命运。",
+      "rec": "会把视线从中心挪开。",
+      "year": "",
+      "creatorZh": "",
+      "creatorEn": "",
+      "creatorRole": "",
+      "image": "resources/Nourish_media/book-097.jpg",
+      "pending": false
+    },
+    {
+      "id": "book-098",
+      "title": "家与孝：从中西间视野看",
+      "en": "Home and Filial Piety: A Chinese-Western Perspective",
+      "kind": "书籍",
+      "genre": "哲学随笔 / 中西比较哲学",
+      "tags": [
+        "檀香",
+        "桂花"
+      ],
+      "quadrants": [
+        "幽微"
+      ],
+      "summary": "张祥龙在儒家“亲亲”与西方关于家、居所的哲学之间往返，讨论孝、亲子关系与人类生存方式。",
+      "rec": "把最熟悉的“家”与“孝”重新变成值得思考的问题。",
+      "year": "2017",
+      "creatorZh": "张祥龙",
+      "creatorEn": "Zhang Xianglong",
+      "creatorRole": "作者",
+      "image": "resources/Nourish_media/book-098.jpg",
+      "pending": false
+    },
+    {
+      "id": "book-099",
+      "title": "远山在呼唤",
+      "en": "青春を山に賭けて",
+      "kind": "书籍",
+      "genre": "登山纪实 / 日本",
+      "tags": [
+        "雪松",
+        "旧皮革"
+      ],
+      "quadrants": [
+        "青涩"
+      ],
+      "summary": "植村直己回望从青年到极地探险家的成长：登顶、独行、濒死与对山的长期承诺。",
+      "rec": "不是“热血励志”，而是一个人把一生交给远方的实录。",
+      "year": "2014（中译本）",
+      "creatorZh": "植村直己",
+      "creatorEn": "Naomi Uemura",
+      "creatorRole": "作者",
+      "image": "resources/Nourish_media/book-099.jpg",
+      "pending": false
+    },
+    {
+      "id": "book-100",
+      "title": "当呼吸化为空气",
+      "en": "When Breath Becomes Air",
+      "kind": "书籍",
+      "genre": "回忆录 / 保罗·卡拉尼什",
+      "tags": [
+        "洋甘菊",
+        "乳香"
+      ],
+      "quadrants": [
+        "幽微"
+      ],
+      "summary": "神经外科医生成为病人后，思考生命意义、工作与告别。",
+      "rec": "薄薄一本，后劲很大；备好纸巾。",
+      "year": "",
+      "creatorZh": "",
+      "creatorEn": "",
+      "creatorRole": "",
+      "image": "resources/Nourish_media/book-100.jpg",
+      "pending": false
+    },
+    {
+      "id": "book-101",
+      "title": "美国不平等的起源",
+      "en": "Caste: The Origins of Our Discontents",
+      "kind": "书籍",
+      "genre": "社会学 / 美国种族史",
+      "tags": [
+        "沉香",
+        "乳香"
+      ],
+      "quadrants": [
+        "幽微"
+      ],
+      "summary": "伊莎贝尔·威尔克森提出“种姓”框架，追溯美国社会中隐形而持久的等级秩序。",
+      "rec": "它提供的不只是种族问题的材料，而是一副重新读美国的结构眼镜。",
+      "year": "2021（中译本）",
+      "creatorZh": "伊莎贝尔·威尔克森",
+      "creatorEn": "Isabel Wilkerson",
+      "creatorRole": "作者",
+      "image": "resources/Nourish_media/book-101.jpg",
+      "pending": false
+    },
+    {
+      "id": "book-102",
+      "title": "重返暗夜",
+      "en": "El Retorno",
+      "kind": "书籍",
+      "genre": "短篇小说集 / 拉美文学",
+      "tags": [
+        "烟草",
+        "威士忌"
+      ],
+      "quadrants": [
+        "幽微"
+      ],
+      "summary": "波拉尼奥以十三篇短篇穿行于流亡者、失败者与文学迷宫，把荒诞、黑色幽默和不安编在一起。",
+      "rec": "适合在夜里一篇篇读；每次回头，都会发现另一层暗涌。",
+      "year": "2021（中译本）",
+      "creatorZh": "罗贝托·波拉尼奥",
+      "creatorEn": "Roberto Bolaño",
+      "creatorRole": "作者",
+      "image": "resources/Nourish_media/book-102.jpg",
+      "pending": false
+    },
+    {
+      "id": "book-103",
+      "title": "1963：变革之年",
+      "en": "1963: The Year of Revolution",
+      "kind": "书籍",
+      "genre": "历史",
+      "tags": [
+        "沉香",
+        "威士忌"
+      ],
+      "quadrants": [
+        "幽微"
+      ],
+      "summary": "从一个关键年份看冷战、民权与文化转向。",
+      "rec": "把宏大历史压缩到一年，读起来很有推进感。",
+      "year": "",
+      "creatorZh": "",
+      "creatorEn": "",
+      "creatorRole": "",
+      "image": "resources/Nourish_media/book-103.jpg",
+      "pending": false
+    },
+    {
+      "id": "book-104",
+      "title": "伦敦人：大城市的日与夜",
+      "en": "Londoners: The Days and Nights of London Now",
+      "kind": "书籍",
+      "genre": "纪实 / 克雷格·泰勒",
+      "tags": [
+        "冷杉",
+        "黑咖啡"
+      ],
+      "quadrants": [
+        "幽微"
+      ],
+      "summary": "以口述史拼出伦敦各阶层、职业与欲望的城市肖像。",
+      "rec": "像坐地铁偷听一整座城市。",
+      "year": "",
+      "creatorZh": "",
+      "creatorEn": "",
+      "creatorRole": "",
+      "image": "resources/Nourish_media/book-104.jpg",
+      "pending": false
+    },
+    {
+      "id": "book-105",
+      "title": "布鲁克林",
+      "en": "Brooklyn",
+      "kind": "书籍",
+      "genre": "小说 / 科尔姆·托宾",
+      "tags": [
+        "紫罗兰",
+        "旧皮革"
+      ],
+      "quadrants": [
+        "华丽"
+      ],
+      "summary": "爱尔兰女孩在纽约与故乡之间做人生选择。",
+      "rec": "安静、精准，情绪像潮水慢慢上来。",
+      "year": "",
+      "creatorZh": "",
+      "creatorEn": "",
+      "creatorRole": "",
+      "image": "resources/Nourish_media/book-105.jpg",
+      "pending": false
+    },
+    {
+      "id": "book-106",
+      "title": "世界开始的地方",
+      "en": "The Early Stories of Truman Capote",
+      "kind": "书籍",
+      "genre": "短篇小说集 / 美国文学",
+      "tags": [
+        "烟草",
+        "紫罗兰"
+      ],
+      "quadrants": [
+        "幽微"
+      ],
+      "summary": "收录卡波特少年时期未发表的短篇，已能看见他对孤独、边缘人物与南方气息的敏锐。",
+      "rec": "像进入一位作家尚未定型却已闪光的暗房。",
+      "year": "2021（中译本）",
+      "creatorZh": "杜鲁门·卡波特",
+      "creatorEn": "Truman Capote",
+      "creatorRole": "作者",
+      "image": "resources/Nourish_media/book-106.jpg",
+      "pending": false
+    },
+    {
+      "id": "book-107",
+      "title": "金蔷薇",
+      "en": "The Golden Rose",
+      "kind": "书籍",
+      "genre": "散文 / 帕乌斯托夫斯基",
+      "tags": [
+        "焙茶",
+        "羊皮纸"
+      ],
+      "quadrants": [
+        "幽微",
+        "华丽"
+      ],
+      "summary": "谈写作、记忆与艺术如何从生活细节中长出。",
+      "rec": "写作者的床头书，读起来有光。",
+      "year": "",
+      "creatorZh": "",
+      "creatorEn": "",
+      "creatorRole": "",
+      "image": "resources/Nourish_media/book-107.jpg",
+      "pending": false
+    },
+    {
+      "id": "book-108",
+      "title": "阿弥陀堂讯息",
+      "en": "Letter from the Mountain",
+      "kind": "影视",
+      "genre": "电影 / 日本 / 剧情",
+      "tags": [
+        "竹叶",
+        "洋甘菊"
+      ],
+      "quadrants": [
+        "幽微"
+      ],
+      "summary": "小泉尧史改编南木佳士小说：一对厌倦都市的夫妻搬往信州山村，在四季与邻里间重新学习生活。",
+      "rec": "像一封写给乡村与复原的慢信；适合想把呼吸放慢的晚上。",
+      "year": "2002",
+      "creatorZh": "小泉尧史",
+      "creatorEn": "Takashi Koizumi",
+      "creatorRole": "导演",
+      "image": "resources/Nourish_media/book-108.jpg",
+      "pending": false
+    },
+    {
+      "id": "book-109",
+      "title": "我的解放日志",
+      "en": "My Liberation Notes",
+      "kind": "影视",
+      "genre": "影视条目",
+      "tags": [
+        "焙茶",
+        "冷杉"
+      ],
+      "quadrants": [
+        "幽微"
+      ],
+      "summary": "更可能为剧集；已在影视页归档。",
+      "rec": "留给一个想慢慢呼吸的夜晚。",
+      "year": "",
+      "creatorZh": "",
+      "creatorEn": "",
+      "creatorRole": "",
+      "image": "resources/Nourish_media/book-109.jpg",
+      "pending": false
+    },
+    {
+      "id": "book-110",
+      "title": "朱莉与朱莉娅",
+      "en": "Julie & Julia",
+      "kind": "影视",
+      "genre": "影视条目",
+      "tags": [
+        "烤栗子",
+        "焙茶"
+      ],
+      "quadrants": [
+        "幽微"
+      ],
+      "summary": "更可能为电影；已在影视页归档。",
+      "rec": "饥饿时别看。",
+      "year": "",
+      "creatorZh": "",
+      "creatorEn": "",
+      "creatorRole": "",
+      "image": "resources/Nourish_media/book-110.jpg",
+      "pending": false
+    },
+    {
+      "id": "book-111",
+      "title": "普鲁士军官",
+      "en": "The Prussian Officer and Other Stories",
+      "kind": "书籍",
+      "genre": "短篇小说集 / 英国文学",
+      "tags": [
+        "旧皮革",
+        "乳香"
+      ],
+      "quadrants": [
+        "幽微"
+      ],
+      "summary": "劳伦斯以军官与年轻勤务兵之间日益扭曲的权力关系，写战争、压抑与欲望的暴烈反噬。",
+      "rec": "篇幅短，密度极高；像一根绷到断裂的弦。",
+      "year": "1914",
+      "creatorZh": "D·H·劳伦斯",
+      "creatorEn": "D. H. Lawrence",
+      "creatorRole": "作者",
+      "image": "resources/Nourish_media/book-111.jpg",
+      "pending": false
+    },
+    {
+      "id": "book-112",
+      "title": "莎士比亚",
+      "en": "Shakespeare: 作品选",
+      "kind": "书籍",
+      "genre": "戏剧",
+      "tags": [
+        "羊皮纸",
+        "乳香"
+      ],
+      "quadrants": [
+        "幽微"
+      ],
+      "summary": "可作为莎剧阅读入口，而非单一书目。",
+      "rec": "先从最想看的冲突开始。",
+      "year": "",
+      "creatorZh": "",
+      "creatorEn": "",
+      "creatorRole": "",
+      "image": "resources/Nourish_media/book-112.jpg",
+      "pending": false
+    },
+    {
+      "id": "book-113",
+      "title": "弥尔顿",
+      "en": "Milton: 作品选",
+      "kind": "书籍",
+      "genre": "诗歌 / 戏剧",
+      "tags": [
+        "乳香",
+        "羊皮纸"
+      ],
+      "quadrants": [
+        "幽微",
+        "华丽"
+      ],
+      "summary": "英语诗歌与宗教-政治想象的重要入口。",
+      "rec": "读不动时先读导读和节选。",
+      "year": "",
+      "creatorZh": "",
+      "creatorEn": "",
+      "creatorRole": "",
+      "image": "resources/Nourish_media/book-113.jpg",
+      "pending": false
+    },
+    {
+      "id": "book-114",
+      "title": "鲍德里亚的《拟像与拟仿》",
+      "en": "Simulacra and Simulation",
+      "kind": "书籍",
+      "genre": "理论 / 鲍德里亚",
+      "tags": [
+        "杜松子",
+        "威士忌"
+      ],
+      "quadrants": [
+        "幽微"
+      ],
+      "summary": "讨论符号、媒体与“真实”如何被拟像替代。",
+      "rec": "短而危险：会让你怀疑屏幕里的世界。",
+      "year": "",
+      "creatorZh": "",
+      "creatorEn": "",
+      "creatorRole": "",
+      "image": "resources/Nourish_media/book-114.jpg",
+      "pending": false
+    },
+    {
+      "id": "book-115",
+      "title": "贤者之爱",
+      "en": "Love of Sage",
+      "kind": "影视",
+      "genre": "日本剧集 / 剧情 / 2016 / 1 季",
+      "tags": [
+        "丝绒玫瑰",
+        "乳香"
+      ],
+      "quadrants": [
+        "华丽"
+      ],
+      "summary": "一位女性将童年背叛化为漫长复仇，并把自己最初的爱意投向旧友之子；欲望、控制与记忆彼此缠绕。",
+      "rec": "华丽、冰冷又不太道德；很适合想看女性欲望被写得锋利时选它。",
+      "year": "2016",
+      "creatorZh": "源孝志",
+      "creatorEn": "Takashi Minamoto",
+      "creatorRole": "导演",
+      "image": "resources/Nourish_media/book-115.jpg",
+      "pending": false
+    },
+    {
+      "id": "book-116",
+      "title": "欲爱流离",
+      "en": "Queen at Sea",
+      "kind": "影视",
+      "genre": "电影 / 剧情",
+      "tags": [
+        "洋甘菊",
+        "冷杉"
+      ],
+      "quadrants": [
+        "幽微"
+      ],
+      "summary": "一位女儿与继父在照护患失智症母亲的过程中，被迫面对爱、同意与自主权最难回答的问题。",
+      "rec": "不煽情，却把亲密关系里的灰色地带拍得极其锋利。",
+      "year": "2026",
+      "creatorZh": "兰斯·哈默",
+      "creatorEn": "Lance Hammer",
+      "creatorRole": "导演",
+      "image": "resources/Nourish_media/book-116.jpg",
+      "pending": false
+    },
+    {
+      "id": "book-117",
+      "title": "和沙莫的500天",
+      "en": "500 Days of Summer",
+      "kind": "影视",
+      "genre": "影视条目",
+      "tags": [
+        "白桃",
+        "紫罗兰"
+      ],
+      "quadrants": [
+        "华丽"
+      ],
+      "summary": "更可能为电影；已归影视。",
+      "rec": "浪漫喜剧的反浪漫练习。",
+      "year": "",
+      "creatorZh": "",
+      "creatorEn": "",
+      "creatorRole": "",
+      "image": "resources/Nourish_media/book-117.jpg",
+      "pending": false
+    },
+    {
+      "id": "book-118",
+      "title": "天蓝色的彼岸",
+      "en": "The Great Blue Yonder",
+      "kind": "书籍",
+      "genre": "青少年小说",
+      "tags": [
+        "白桃",
+        "洋甘菊"
+      ],
+      "quadrants": [
+        "青涩"
+      ],
+      "summary": "一个离世男孩回望家人和未竟告别。",
+      "rec": "温柔处理死亡，适合一口气读完。",
+      "year": "",
+      "creatorZh": "",
+      "creatorEn": "",
+      "creatorRole": "",
+      "image": "resources/Nourish_media/book-118.jpg",
+      "pending": false
+    },
+    {
+      "id": "book-119",
+      "title": "纽约唯一活着的男孩",
+      "en": "The Only Living Boy in New York",
+      "kind": "影视",
+      "genre": "电影 / 爱情剧情 / 2017",
+      "tags": [
+        "烟草",
+        "紫罗兰"
+      ],
+      "quadrants": [
+        "华丽"
+      ],
+      "summary": "一名纽约青年发现父亲的婚外情，在曼哈顿的欲望、文学与成长中寻找自己的位置。",
+      "rec": "城市很漂亮，人都不太可靠；适合想看一部轻盈却带点苦味的纽约电影时选它。",
+      "year": "2017",
+      "creatorZh": "马克·韦布",
+      "creatorEn": "Marc Webb",
+      "creatorRole": "导演",
+      "image": "resources/Nourish_media/book-119.jpg",
+      "pending": false
+    },
+    {
+      "id": "book-120",
+      "title": "ADHD for Smart Ass Women",
+      "en": "ADHD for Smart Ass Women",
+      "kind": "其他",
+      "genre": "播客 / ADHD",
+      "tags": [
+        "香根草",
+        "洋甘菊"
+      ],
+      "quadrants": [
+        "幽微"
+      ],
+      "summary": "Tracy Otsuka 面向 ADHD 女性的长谈节目，讨论诊断、优势、关系与如何与自己的神经多样性大脑相处。",
+      "rec": "不把大脑当故障，而当需要说明书的系统。",
+      "year": "2019",
+      "creatorZh": "特蕾西·大冢",
+      "creatorEn": "Tracy Otsuka",
+      "creatorRole": "主持",
+      "image": "resources/Nourish_media/book-120.jpg",
+      "pending": false
+    },
+    {
+      "id": "book-121",
+      "title": "布兰特爵士的生平与苦痛",
+      "en": "The Life and Suffering of Sir Brante",
+      "kind": "其他",
+      "genre": "Steam 游戏 / 暗黑奇幻叙事 RPG",
+      "tags": [
+        "羊皮纸",
+        "乳香"
+      ],
+      "quadrants": [
+        "幽微"
+      ],
+      "summary": "在由神祇与阶级主宰的帝国里，以书信与选择决定布兰特从出生到死亡的命运。",
+      "rec": "像亲手写一部俄式家族悲剧；每一个选择都真的会留下伤口。",
+      "year": "2021",
+      "creatorZh": "Sever",
+      "creatorEn": "Sever",
+      "creatorRole": "开发者",
+      "image": "resources/Nourish_media/book-121.jpg",
+      "pending": false
+    },
+    {
+      "id": "book-122",
+      "title": "与王生活的男人",
+      "en": "The King's Warden",
+      "kind": "影视",
+      "genre": "韩国历史剧情电影 / 2026",
+      "tags": [
+        "沉香",
+        "焙茶"
+      ],
+      "quadrants": [
+        "幽微"
+      ],
+      "summary": "15 世纪朝鲜，被废黜的端宗在流放地与村长严兴道结下意外的羁绊。",
+      "rec": "不是宫斗快餐，而是一段被历史压低音量的守护与友谊。",
+      "year": "2026",
+      "creatorZh": "张恒俊",
+      "creatorEn": "Jang Hang-jun",
+      "creatorRole": "导演",
+      "image": "resources/Nourish_media/book-122.jpg",
+      "pending": false
+    },
+    {
+      "id": "book-123",
+      "title": "红磨坊",
+      "en": "Moulin Rouge!",
+      "kind": "影视",
+      "genre": "影视条目",
+      "tags": [
+        "晚香玉",
+        "丝绒玫瑰"
+      ],
+      "quadrants": [
+        "幽微"
+      ],
+      "summary": "更可能为电影/舞台音乐剧；已归影视。",
+      "rec": "视觉与旋律都很浓。",
+      "year": "",
+      "creatorZh": "",
+      "creatorEn": "",
+      "creatorRole": "",
+      "image": "resources/Nourish_media/book-123.jpg",
+      "pending": false
+    },
+    {
+      "id": "book-124",
+      "title": "施图茨的疗愈之道",
+      "en": "Stutz",
+      "kind": "影视",
+      "genre": "纪录片",
+      "tags": [
+        "洋甘菊",
+        "香根草"
+      ],
+      "quadrants": [
+        "幽微"
+      ],
+      "summary": "乔纳·希尔与心理治疗师菲尔·施图茨谈心理工具与脆弱。",
+      "rec": "不神化治疗，给你一些能立刻用的小工具。",
+      "year": "2022",
+      "creatorZh": "乔纳·希尔",
+      "creatorEn": "Jonah Hill",
+      "creatorRole": "导演",
+      "image": "resources/Nourish_media/book-124.jpg",
+      "pending": false
+    },
+    {
+      "id": "book-125",
+      "title": "认识电影",
+      "en": "Understanding Movies",
+      "kind": "影视",
+      "genre": "电影理论 / 入门",
+      "tags": [
+        "羊皮纸",
+        "香根草"
+      ],
+      "quadrants": [
+        "幽微"
+      ],
+      "summary": "路易斯·贾内梯以镜头、剪辑、声音、表演与类型等基本语言，带读者建立观看电影的方式。",
+      "rec": "看完不会只说“好看”；你会开始知道它为什么好看。",
+      "year": "",
+      "creatorZh": "路易斯·贾内梯",
+      "creatorEn": "Louis Giannetti",
+      "creatorRole": "作者",
+      "image": "resources/Nourish_media/book-125.jpg",
+      "pending": false
+    },
+    {
+      "id": "screen-001",
+      "title": "爱在三部曲",
+      "en": "Before Trilogy",
+      "kind": "影视",
+      "genre": "电影 / 爱情",
+      "tags": [
+        "丝绒玫瑰",
+        "紫罗兰"
+      ],
+      "quadrants": [
+        "华丽"
+      ],
+      "summary": "两个人跨越二十余年的相遇与对话，把爱情写成时间里的共同创作。",
+      "rec": "先从《日出之前》开始，别跳着看。",
+      "year": "",
+      "creatorZh": "",
+      "creatorEn": "",
+      "creatorRole": "",
+      "image": "resources/Nourish_media/screen-001.jpg",
+      "pending": false
+    },
+    {
+      "id": "screen-002",
+      "title": "一天",
+      "en": "One Day",
+      "kind": "影视",
+      "genre": "电影 / 爱情",
+      "tags": [
+        "紫罗兰",
+        "白桃"
+      ],
+      "quadrants": [
+        "华丽"
+      ],
+      "summary": "同一天、不同年份，记录一段关系如何被错过与重逢塑形。",
+      "rec": "适合想被温柔地捅一刀时看。",
+      "year": "",
+      "creatorZh": "",
+      "creatorEn": "",
+      "creatorRole": "",
+      "image": "resources/Nourish_media/screen-002.jpg",
+      "pending": false
+    },
+    {
+      "id": "screen-003",
+      "title": "智能手机：黑暗面",
+      "en": "Smartphones: The Dark Side",
+      "kind": "影视",
+      "genre": "纪录片",
+      "tags": [
+        "杜松子",
+        "冷杉"
+      ],
+      "quadrants": [
+        "凛冽",
+        "暗涌"
+      ],
+      "summary": "从注意力、数据与成瘾讨论手机如何重新编排生活。",
+      "rec": "看完会想把通知关掉。",
+      "year": "2018",
+      "creatorZh": "",
+      "creatorEn": "",
+      "creatorRole": "",
+      "image": "resources/Nourish_media/screen-003.jpg",
+      "pending": false
+    },
+    {
+      "id": "screen-004",
+      "title": "灿烂又孤独的神：鬼怪",
+      "en": "Goblin",
+      "kind": "影视",
+      "genre": "剧集 / 奇幻爱情",
+      "tags": [
+        "丝绒玫瑰",
+        "乳香"
+      ],
+      "quadrants": [
+        "华丽"
+      ],
+      "summary": "不死的鬼怪与能看见他的少女相遇，甜、伤感与神话感并存。",
+      "rec": "冬天最适合：配 OST，沉浸感拉满。",
+      "year": "2016",
+      "creatorZh": "李应福",
+      "creatorEn": "Lee Eung-bok",
+      "creatorRole": "导演",
+      "image": "resources/Nourish_media/screen-004.jpg",
+      "pending": false
+    },
+    {
+      "id": "screen-005",
+      "title": "Guava Island",
+      "en": "Guava Island",
+      "kind": "影视",
+      "genre": "电影 / 音乐",
+      "tags": [
+        "焙茶",
+        "威士忌"
+      ],
+      "quadrants": [
+        "幽微",
+        "华丽"
+      ],
+      "summary": "虚构热带岛上的音乐家试图办一场免费演出，对抗资本控制。",
+      "rec": "短小、明亮、带一点政治的节拍。",
+      "year": "",
+      "creatorZh": "",
+      "creatorEn": "",
+      "creatorRole": "",
+      "image": "resources/Nourish_media/screen-005.jpg",
+      "pending": false
+    },
+    {
+      "id": "screen-006",
+      "title": "春光乍泄",
+      "en": "Happy Together",
+      "kind": "影视",
+      "genre": "电影 / 王家卫",
+      "tags": [
+        "烟草",
+        "冷杉"
+      ],
+      "quadrants": [
+        "青涩"
+      ],
+      "summary": "一对恋人在布宜诺斯艾利斯反复靠近又分离。",
+      "rec": "黑白与颜色都像情绪本身。",
+      "year": "",
+      "creatorZh": "",
+      "creatorEn": "",
+      "creatorRole": "",
+      "image": "resources/Nourish_media/screen-006.jpg",
+      "pending": false
+    },
+    {
+      "id": "screen-008",
+      "title": "普罗旺斯的夏天",
+      "en": "My Summer in Provence",
+      "kind": "影视",
+      "genre": "电影 / 家庭",
+      "tags": [
+        "烤栗子",
+        "桂花"
+      ],
+      "quadrants": [
+        "华丽"
+      ],
+      "summary": "祖孙在南法夏日里彼此重新认识。",
+      "rec": "想要阳光、葡萄园与松弛感就选它。",
+      "year": "2014",
+      "creatorZh": "罗丝琳·伯胥",
+      "creatorEn": "Roselyne Bosch",
+      "creatorRole": "导演",
+      "image": "resources/Nourish_media/screen-008.jpg",
+      "pending": false
+    },
+    {
+      "id": "screen-009",
+      "title": "人生七年",
+      "en": "Up Series",
+      "kind": "影视",
+      "genre": "纪录片系列",
+      "tags": [
+        "羊皮纸",
+        "焙茶"
+      ],
+      "quadrants": [
+        "青涩"
+      ],
+      "summary": "从童年起每七年回访同一批英国人，观察阶层与人生如何展开。",
+      "rec": "纪录片史上的时间机器，值得长期追。",
+      "year": "",
+      "creatorZh": "",
+      "creatorEn": "",
+      "creatorRole": "",
+      "image": "resources/Nourish_media/screen-009.jpg",
+      "pending": false
+    },
+    {
+      "id": "screen-010",
+      "title": "恐龙电影",
+      "en": "Dinosaur film",
+      "kind": "其他",
+      "genre": "待确认",
+      "tags": [
+        "青苹果",
+        "雪松"
+      ],
+      "quadrants": [
+        "青涩"
+      ],
+      "summary": "原笔记未指定片名，可能为《侏罗纪》系列等。",
+      "rec": "补充年代或海报即可定位。",
+      "year": "",
+      "creatorZh": "",
+      "creatorEn": "",
+      "creatorRole": "",
+      "image": "resources/Nourish_media/screen-010.jpg",
+      "pending": true
+    },
+    {
+      "id": "screen-011",
+      "title": "玛丽和马克思",
+      "en": "Mary and Max",
+      "kind": "影视",
+      "genre": "动画电影",
+      "tags": [
+        "洋甘菊",
+        "焙茶"
+      ],
+      "quadrants": [
+        "温柔"
+      ],
+      "summary": "两位孤独笔友跨越大陆建立友谊，黑色幽默里藏着温柔。",
+      "rec": "黏土动画很可爱，心却很重。",
+      "year": "",
+      "creatorZh": "",
+      "creatorEn": "",
+      "creatorRole": "",
+      "image": "resources/Nourish_media/screen-011.jpg",
+      "pending": false
+    },
+    {
+      "id": "screen-012",
+      "title": "无限的未知",
+      "en": "Unknown: The Cosmic Time Machine",
+      "kind": "影视",
+      "genre": "纪录片",
+      "tags": [
+        "杜松子",
+        "雪松"
+      ],
+      "quadrants": [
+        "凛冽"
+      ],
+      "summary": "围绕韦布望远镜与人类窥见宇宙深处的努力。",
+      "rec": "看大到发晕的东西，烦恼会暂时缩小。",
+      "year": "",
+      "creatorZh": "",
+      "creatorEn": "",
+      "creatorRole": "",
+      "image": "resources/Nourish_media/screen-012.jpg",
+      "pending": false
+    },
+    {
+      "id": "screen-013",
+      "title": "碧海蓝天",
+      "en": "The Big Blue",
+      "kind": "影视",
+      "genre": "电影",
+      "tags": [
+        "冷杉",
+        "乳香"
+      ],
+      "quadrants": [
+        "幽微",
+        "华丽"
+      ],
+      "summary": "两位自由潜水者在海洋、竞争与死亡吸引之间前行。",
+      "rec": "蓝得近乎催眠，适合大屏看。",
+      "year": "",
+      "creatorZh": "",
+      "creatorEn": "",
+      "creatorRole": "",
+      "image": "resources/Nourish_media/screen-013.jpg",
+      "pending": false
+    },
+    {
+      "id": "screen-014",
+      "title": "借东西的小人阿莉埃蒂",
+      "en": "Arrietty",
+      "kind": "影视",
+      "genre": "动画电影",
+      "tags": [
+        "香草",
+        "白桃"
+      ],
+      "quadrants": [
+        "温柔"
+      ],
+      "summary": "微小的借物少女与人类男孩建立脆弱的友谊。",
+      "rec": "吉卜力的“缩小世界”美学巅峰之一。",
+      "year": "",
+      "creatorZh": "",
+      "creatorEn": "",
+      "creatorRole": "",
+      "image": "resources/Nourish_media/screen-014.jpg",
+      "pending": false
+    },
+    {
+      "id": "screen-015",
+      "title": "刺猬的优雅",
+      "en": "The Hedgehog",
+      "kind": "影视",
+      "genre": "电影 / 文学改编",
+      "tags": [
+        "羊皮纸",
+        "洋甘菊"
+      ],
+      "quadrants": [
+        "青涩"
+      ],
+      "summary": "门房与少女在巴黎公寓里发现彼此被隐藏的精神生活。",
+      "rec": "安静、聪明，像一封写给阅读的信。",
+      "year": "2009",
+      "creatorZh": "莫娜·阿查切",
+      "creatorEn": "Mona Achache",
+      "creatorRole": "导演",
+      "image": "resources/Nourish_media/screen-015.jpg",
+      "pending": false
+    },
+    {
+      "id": "screen-016",
+      "title": "幸福的面包",
+      "en": "Bread of Happiness",
+      "kind": "影视",
+      "genre": "电影 / 治愈",
+      "tags": [
+        "烤栗子",
+        "洋甘菊"
+      ],
+      "quadrants": [
+        "温柔"
+      ],
+      "summary": "北海道小店用食物与相遇安放来客和自己。",
+      "rec": "下雨天看，容易被治愈到想烤面包。",
+      "year": "",
+      "creatorZh": "",
+      "creatorEn": "",
+      "creatorRole": "",
+      "image": "resources/Nourish_media/screen-016.jpg",
+      "pending": false
+    },
+    {
+      "id": "screen-017",
+      "title": "杀人回忆",
+      "en": "Memories of Murder",
+      "kind": "影视",
+      "genre": "电影 / 犯罪",
+      "tags": [
+        "冷杉",
+        "威士忌"
+      ],
+      "quadrants": [
+        "凛冽",
+        "暗涌"
+      ],
+      "summary": "未破连环案中，警察的偏执与无力逐渐暴露。",
+      "rec": "紧张、好笑、可怕；奉俊昊的早期杰作。",
+      "year": "",
+      "creatorZh": "",
+      "creatorEn": "",
+      "creatorRole": "",
+      "image": "resources/Nourish_media/screen-017.jpg",
+      "pending": false
+    },
+    {
+      "id": "screen-018",
+      "title": "寄生虫",
+      "en": "Parasite",
+      "kind": "影视",
+      "genre": "电影 / 黑色喜剧",
+      "tags": [
+        "冷杉",
+        "威士忌"
+      ],
+      "quadrants": [
+        "温柔"
+      ],
+      "summary": "两个家庭的阶级缠斗在一栋房子里不断翻转。",
+      "rec": "别看剧透，直接看；每个转折都值回票价。",
+      "year": "",
+      "creatorZh": "",
+      "creatorEn": "",
+      "creatorRole": "",
+      "image": "resources/Nourish_media/screen-018.jpg",
+      "pending": false
+    },
+    {
+      "id": "screen-019",
+      "title": "被解救的姜戈",
+      "en": "Django Unchained",
+      "kind": "影视",
+      "genre": "电影 / 西部",
+      "tags": [
+        "旧皮革",
+        "威士忌"
+      ],
+      "quadrants": [
+        "青涩"
+      ],
+      "summary": "被奴役者化身复仇者，在塔伦蒂诺式暴力童话里夺回自由。",
+      "rec": "爽感很强，也很不安。",
+      "year": "",
+      "creatorZh": "",
+      "creatorEn": "",
+      "creatorRole": "",
+      "image": "resources/Nourish_media/screen-019.jpg",
+      "pending": false
+    },
+    {
+      "id": "screen-020",
+      "title": "坂本龙一：终曲",
+      "en": "Ryuichi Sakamoto: Coda",
+      "kind": "影视",
+      "genre": "纪录片",
+      "tags": [
+        "焙茶",
+        "乳香"
+      ],
+      "quadrants": [
+        "青涩"
+      ],
+      "summary": "病后坂本龙一继续聆听自然、创作并面对时间。",
+      "rec": "给耳朵和心都留一点安静。",
+      "year": "",
+      "creatorZh": "",
+      "creatorEn": "",
+      "creatorRole": "",
+      "image": "resources/Nourish_media/screen-020.jpg",
+      "pending": false
+    },
+    {
+      "id": "screen-021",
+      "title": "蒂凡尼的早餐",
+      "en": "Breakfast at Tiffany’s",
+      "kind": "影视",
+      "genre": "电影 / 浪漫喜剧",
+      "tags": [
+        "丝绒玫瑰",
+        "黑咖啡"
+      ],
+      "quadrants": [
+        "温柔"
+      ],
+      "summary": "纽约女孩霍莉的光鲜外表下，是对归属与亲密的恐惧。",
+      "rec": "经典造型之外，故事比想象中更忧伤。",
+      "year": "",
+      "creatorZh": "",
+      "creatorEn": "",
+      "creatorRole": "",
+      "image": "resources/Nourish_media/screen-021.jpg",
+      "pending": false
+    },
+    {
+      "id": "screen-022",
+      "title": "大学一年级",
+      "en": "The Freshmen",
+      "kind": "影视",
+      "genre": "电影 / 成长",
+      "tags": [
+        "青苹果",
+        "白桃"
+      ],
+      "quadrants": [
+        "青涩"
+      ],
+      "summary": "围绕大学初年的人际、选择与身份困惑。",
+      "rec": "适合在新阶段开始前看。",
+      "year": "",
+      "creatorZh": "",
+      "creatorEn": "",
+      "creatorRole": "",
+      "image": "resources/Nourish_media/screen-022.jpg",
+      "pending": false
+    },
+    {
+      "id": "screen-023",
+      "title": "上帝之国",
+      "en": "God’s Own Country",
+      "kind": "影视",
+      "genre": "电影 / 爱情",
+      "tags": [
+        "旧皮革",
+        "丝绒玫瑰"
+      ],
+      "quadrants": [
+        "华丽"
+      ],
+      "summary": "约克郡农场青年与季节工之间发展出艰难而真实的亲密关系。",
+      "rec": "粗粝又柔软，爱像劳动一样具体。",
+      "year": "",
+      "creatorZh": "",
+      "creatorEn": "",
+      "creatorRole": "",
+      "image": "resources/Nourish_media/screen-023.jpg",
+      "pending": false
+    },
+    {
+      "id": "screen-024",
+      "title": "做我的奴隶",
+      "en": "Be My Slave",
+      "kind": "影视",
+      "genre": "电影",
+      "tags": [
+        "威士忌",
+        "丝绒玫瑰"
+      ],
+      "quadrants": [
+        "青涩"
+      ],
+      "summary": "以支配与臣服探测欲望边界的争议作品。",
+      "rec": "先确认自己的观看边界再点开。",
+      "year": "",
+      "creatorZh": "",
+      "creatorEn": "",
+      "creatorRole": "",
+      "image": "resources/Nourish_media/screen-024.jpg",
+      "pending": false
+    },
+    {
+      "id": "screen-025",
+      "title": "煤气灯下",
+      "en": "Gaslight",
+      "kind": "影视",
+      "genre": "电影 / 惊悚",
+      "tags": [
+        "冷杉",
+        "威士忌"
+      ],
+      "quadrants": [
+        "青涩"
+      ],
+      "summary": "丈夫通过操控与否认让妻子怀疑自己的理智。",
+      "rec": "“煤气灯效应”的源头，至今锋利。",
+      "year": "",
+      "creatorZh": "",
+      "creatorEn": "",
+      "creatorRole": "",
+      "image": "resources/Nourish_media/screen-025.jpg",
+      "pending": false
+    },
+    {
+      "id": "screen-026",
+      "title": "越狱",
+      "en": "Prison Break",
+      "kind": "影视",
+      "genre": "剧集",
+      "tags": [
+        "冷杉",
+        "威士忌"
+      ],
+      "quadrants": [
+        "凛冽",
+        "暗涌"
+      ],
+      "summary": "兄弟以精密计划与不断加码的阴谋突破监狱和体制。",
+      "rec": "第一季非常适合一口气刷。",
+      "year": "",
+      "creatorZh": "",
+      "creatorEn": "",
+      "creatorRole": "",
+      "image": "resources/Nourish_media/screen-026.jpg",
+      "pending": false
+    },
+    {
+      "id": "screen-027",
+      "title": "天生杀人狂",
+      "en": "Natural Born Killers",
+      "kind": "影视",
+      "genre": "电影 / 黑色讽刺",
+      "tags": [
+        "威士忌",
+        "杜松子"
+      ],
+      "quadrants": [
+        "凛冽",
+        "暗涌"
+      ],
+      "summary": "暴力情侣被媒体制造成明星，反讽失控的娱乐社会。",
+      "rec": "风格极猛，接受不了就别硬撑。",
+      "year": "",
+      "creatorZh": "",
+      "creatorEn": "",
+      "creatorRole": "",
+      "image": "resources/Nourish_media/screen-027.jpg",
+      "pending": false
+    },
+    {
+      "id": "screen-028",
+      "title": "衰鬼上错身",
+      "en": "Dating the Enemy",
+      "kind": "影视",
+      "genre": "电影 / 身体互换",
+      "tags": [
+        "佛手柑",
+        "白桃"
+      ],
+      "quadrants": [
+        "青涩"
+      ],
+      "summary": "性别互换设定下，喜剧外壳包着对性别角色的调侃。",
+      "rec": "轻松小品，适合换脑子。",
+      "year": "",
+      "creatorZh": "",
+      "creatorEn": "",
+      "creatorRole": "",
+      "image": "resources/Nourish_media/screen-028.jpg",
+      "pending": false
+    },
+    {
+      "id": "screen-029",
+      "title": "陪安东尼度过漫长岁月",
+      "en": "To Grow with Anthony",
+      "kind": "影视",
+      "genre": "电影 / 青春",
+      "tags": [
+        "白桃",
+        "焙茶"
+      ],
+      "quadrants": [
+        "青涩"
+      ],
+      "summary": "以散文式片段记录青年人的城市漂泊、友谊与成长。",
+      "rec": "适合一个人慢慢看，不必追剧情。",
+      "year": "2015",
+      "creatorZh": "秦小珍",
+      "creatorEn": "Qin Xiaozhen",
+      "creatorRole": "导演",
+      "image": "resources/Nourish_media/screen-029.jpg",
+      "pending": false
+    },
+    {
+      "id": "screen-030",
+      "title": "我的大叔",
+      "en": "My Mister",
+      "kind": "影视",
+      "genre": "剧集",
+      "tags": [
+        "焙茶",
+        "洋甘菊"
+      ],
+      "quadrants": [
+        "青涩"
+      ],
+      "summary": "两个疲惫的大人相互看见，在压抑生活里递出一点善意。",
+      "rec": "治愈不是糖，是有人理解你的沉默。",
+      "year": "",
+      "creatorZh": "",
+      "creatorEn": "",
+      "creatorRole": "",
+      "image": "resources/Nourish_media/screen-030.jpg",
+      "pending": false
+    },
+    {
+      "id": "screen-031",
+      "title": "勇敢的心",
+      "en": "Braveheart",
+      "kind": "影视",
+      "genre": "电影 / 历史",
+      "tags": [
+        "旧皮革",
+        "沉香"
+      ],
+      "quadrants": [
+        "幽微"
+      ],
+      "summary": "苏格兰反抗英格兰统治的史诗化叙事。",
+      "rec": "大银幕气质十足，史实可另行查证。",
+      "year": "",
+      "creatorZh": "",
+      "creatorEn": "",
+      "creatorRole": "",
+      "image": "resources/Nourish_media/screen-031.jpg",
+      "pending": false
+    },
+    {
+      "id": "screen-032",
+      "title": "美丽人生",
+      "en": "Life Is Beautiful",
+      "kind": "影视",
+      "genre": "电影 / 战争",
+      "tags": [
+        "香草",
+        "乳香"
+      ],
+      "quadrants": [
+        "幽微"
+      ],
+      "summary": "父亲在集中营里用想象力保护儿子的童年。",
+      "rec": "会笑，也会痛；情绪后坐力很强。",
+      "year": "1985",
+      "creatorZh": "博罗·德拉什科维奇",
+      "creatorEn": "Boro Drašković",
+      "creatorRole": "导演",
+      "image": "resources/Nourish_media/screen-032.jpg",
+      "pending": false
+    },
+    {
+      "id": "screen-033",
+      "title": "乱世佳人",
+      "en": "Gone with the Wind",
+      "kind": "影视",
+      "genre": "电影 / 史诗爱情",
+      "tags": [
+        "晚香玉",
+        "旧皮革"
+      ],
+      "quadrants": [
+        "华丽"
+      ],
+      "summary": "南北战争背景下斯嘉丽的生存欲、爱情与幻灭。",
+      "rec": "可看其电影史地位，同时留心其种族叙事问题。",
+      "year": "1939",
+      "creatorZh": "维克托·弗莱明、喬治·丘克、山姆·伍特",
+      "creatorEn": "Victor Fleming / George Cukor / Sam Wood",
+      "creatorRole": "导演",
+      "image": "resources/Nourish_media/screen-033.jpg",
+      "pending": false
+    },
+    {
+      "id": "screen-034",
+      "title": "阳光普照",
+      "en": "A Sun",
+      "kind": "影视",
+      "genre": "电影 / 家庭",
+      "tags": [
+        "洋甘菊",
+        "冷杉"
+      ],
+      "quadrants": [
+        "温柔"
+      ],
+      "summary": "一个台湾家庭在两个儿子与一次意外之后重新学习面对彼此。",
+      "rec": "克制而刺骨，许光汉之外还有整部电影的重量。",
+      "year": "1953",
+      "creatorZh": "約翰·福特",
+      "creatorEn": "John Ford",
+      "creatorRole": "导演",
+      "image": "resources/Nourish_media/screen-034.jpg",
+      "pending": false
+    },
+    {
+      "id": "screen-035",
+      "title": "地久天长",
+      "en": "So Long, My Son",
+      "kind": "影视",
+      "genre": "电影 / 家庭史",
+      "tags": [
+        "洋甘菊",
+        "乳香"
+      ],
+      "quadrants": [
+        "温柔"
+      ],
+      "summary": "一对夫妻在失独与时代变迁中穿行数十年。",
+      "rec": "情绪很深，适合给它完整的安静时间。",
+      "year": "",
+      "creatorZh": "",
+      "creatorEn": "",
+      "creatorRole": "",
+      "image": "resources/Nourish_media/screen-035.jpg",
+      "pending": false
+    },
+    {
+      "id": "screen-036",
+      "title": "看电影",
+      "en": "Watching Movies",
+      "kind": "其他",
+      "genre": "电影杂志 / 影视文化",
+      "tags": [
+        "羊皮纸",
+        "黑咖啡"
+      ],
+      "quadrants": [
+        "青涩"
+      ],
+      "summary": "中国电影文化杂志，涵盖新片、影人、产业与影评；适合把它当作电影世界的持续入口。",
+      "rec": "翻它像逛旧报刊亭：不必从头读，总会遇到想看的片。",
+      "year": "",
+      "creatorZh": "",
+      "creatorEn": "",
+      "creatorRole": "",
+      "image": "resources/Nourish_media/screen-036.jpg",
+      "pending": false
+    },
+    {
+      "id": "screen-037",
+      "title": "叶问4",
+      "en": "Ip Man 4: The Finale",
+      "kind": "影视",
+      "genre": "电影 / 动作",
+      "tags": [
+        "旧皮革",
+        "青苹果"
+      ],
+      "quadrants": [
+        "青涩"
+      ],
+      "summary": "叶问赴美面对偏见与武术传承的最后一章。",
+      "rec": "动作片的情绪收尾，系列粉丝可看。",
+      "year": "",
+      "creatorZh": "",
+      "creatorEn": "",
+      "creatorRole": "",
+      "image": "resources/Nourish_media/screen-037.jpg",
+      "pending": false
+    },
+    {
+      "id": "screen-038",
+      "title": "粉雄救兵",
+      "en": "Queer Eye",
+      "kind": "影视",
+      "genre": "真人秀",
+      "tags": [
+        "香草",
+        "佛手柑"
+      ],
+      "quadrants": [
+        "青涩"
+      ],
+      "summary": "五人组用造型、家居与真诚谈话帮素人重建生活。",
+      "rec": "低落时的安全毯：善意不等于浅薄。",
+      "year": "",
+      "creatorZh": "",
+      "creatorEn": "",
+      "creatorRole": "",
+      "image": "resources/Nourish_media/screen-038.jpg",
+      "pending": false
+    },
+    {
+      "id": "screen-039",
+      "title": "Life After People",
+      "en": "Life After People",
+      "kind": "影视",
+      "genre": "纪录片",
+      "tags": [
+        "杜松子",
+        "竹叶"
+      ],
+      "quadrants": [
+        "青涩"
+      ],
+      "summary": "设想人类消失后城市、建筑和自然会如何演变。",
+      "rec": "很适合满足“末日后世界”好奇心。",
+      "year": "",
+      "creatorZh": "",
+      "creatorEn": "",
+      "creatorRole": "",
+      "image": "resources/Nourish_media/screen-039.jpg",
+      "pending": false
+    },
+    {
+      "id": "screen-040",
+      "title": "护垫侠",
+      "en": "Pad Man",
+      "kind": "影视",
+      "genre": "电影",
+      "tags": [
+        "青苹果",
+        "香根草"
+      ],
+      "quadrants": [
+        "青涩"
+      ],
+      "summary": "一位印度男性推动平价卫生巾普及，挑战性别禁忌。",
+      "rec": "热血又轻盈，议题表达很亲民。",
+      "year": "2018",
+      "creatorZh": "R·巴爾金",
+      "creatorEn": "R. Balki",
+      "creatorRole": "导演",
+      "image": "resources/Nourish_media/screen-040.jpg",
+      "pending": false
+    },
+    {
+      "id": "screen-041",
+      "title": "开往春天的地铁",
+      "en": "Spring Subway",
+      "kind": "影视",
+      "genre": "电影 / 都市爱情",
+      "tags": [
+        "紫罗兰",
+        "黑咖啡"
+      ],
+      "quadrants": [
+        "华丽"
+      ],
+      "summary": "北京地铁与城市生活中，几段关系彼此交错。",
+      "rec": "千禧年前后的北京空气感很特别。",
+      "year": "",
+      "creatorZh": "",
+      "creatorEn": "",
+      "creatorRole": "",
+      "image": "resources/Nourish_media/screen-041.jpg",
+      "pending": false
+    },
+    {
+      "id": "screen-042",
+      "title": "现代启示录",
+      "en": "Apocalypse Now",
+      "kind": "影视",
+      "genre": "电影 / 战争",
+      "tags": [
+        "沉香",
+        "乳香"
+      ],
+      "quadrants": [
+        "幽微"
+      ],
+      "summary": "越战被拍成一条驶向疯狂、权力与黑暗的河。",
+      "rec": "视听奇观；状态好的时候看。",
+      "year": "1979",
+      "creatorZh": "法蘭西斯·福特·柯波拉",
+      "creatorEn": "Francis Ford Coppola",
+      "creatorRole": "导演",
+      "image": "resources/Nourish_media/screen-042.jpg",
+      "pending": false
+    },
+    {
+      "id": "screen-043",
+      "title": "苦月亮",
+      "en": "Bitter Moon",
+      "kind": "影视",
+      "genre": "电影 / 情欲惊悚",
+      "tags": [
+        "威士忌",
+        "丝绒玫瑰"
+      ],
+      "quadrants": [
+        "青涩"
+      ],
+      "summary": "一段关系在欲望、羞辱与报复中互相吞噬。",
+      "rec": "危险、华丽、非常不适合当约会片。",
+      "year": "",
+      "creatorZh": "",
+      "creatorEn": "",
+      "creatorRole": "",
+      "image": "resources/Nourish_media/screen-043.jpg",
+      "pending": false
+    },
+    {
+      "id": "screen-044",
+      "title": "暖暖内含光",
+      "en": "Eternal Sunshine of the Spotless Mind",
+      "kind": "影视",
+      "genre": "电影 / 爱情科幻",
+      "tags": [
+        "紫罗兰",
+        "焙茶"
+      ],
+      "quadrants": [
+        "华丽"
+      ],
+      "summary": "恋人删除彼此记忆，却在遗忘内部再次相遇。",
+      "rec": "失恋后再看，会发现它比浪漫更诚实。",
+      "year": "",
+      "creatorZh": "",
+      "creatorEn": "",
+      "creatorRole": "",
+      "image": "resources/Nourish_media/screen-044.jpg",
+      "pending": false
+    },
+    {
+      "id": "screen-045",
+      "title": "周末时光",
+      "en": "Weekend",
+      "kind": "影视",
+      "genre": "电影 / 同志爱情",
+      "tags": [
+        "紫罗兰",
+        "焙茶"
+      ],
+      "quadrants": [
+        "华丽"
+      ],
+      "summary": "两个陌生男人在一个周末里建立短暂却深刻的连接。",
+      "rec": "像偷听一段真正发生过的谈话。",
+      "year": "",
+      "creatorZh": "",
+      "creatorEn": "",
+      "creatorRole": "",
+      "image": "resources/Nourish_media/screen-045.jpg",
+      "pending": false
+    },
+    {
+      "id": "screen-046",
+      "title": "Taylor Swift: Miss Americana",
+      "en": "Miss Americana",
+      "kind": "影视",
+      "genre": "纪录片",
+      "tags": [
+        "佛手柑",
+        "黑咖啡"
+      ],
+      "quadrants": [
+        "青涩"
+      ],
+      "summary": "泰勒·斯威夫特谈创作、公众形象与政治发声。",
+      "rec": "即使不是粉丝，也能看见明星机器的压力。",
+      "year": "",
+      "creatorZh": "",
+      "creatorEn": "",
+      "creatorRole": "",
+      "image": "resources/Nourish_media/screen-046.jpg",
+      "pending": false
+    },
+    {
+      "id": "screen-047",
+      "title": "痛苦与荣耀",
+      "en": "Pain and Glory",
+      "kind": "影视",
+      "genre": "电影 / 阿莫多瓦",
+      "tags": [
+        "焙茶",
+        "紫罗兰"
+      ],
+      "quadrants": [
+        "青涩"
+      ],
+      "summary": "老导演在身体疼痛与记忆回潮中重新理解创作与爱。",
+      "rec": "成熟、柔软、很会处理回忆。",
+      "year": "",
+      "creatorZh": "",
+      "creatorEn": "",
+      "creatorRole": "",
+      "image": "resources/Nourish_media/screen-047.jpg",
+      "pending": false
+    },
+    {
+      "id": "screen-048",
+      "title": "齐木楠雄的灾难",
+      "en": "The Disastrous Life of Saiki K.",
+      "kind": "影视",
+      "genre": "动画 / 喜剧",
+      "tags": [
+        "佛手柑",
+        "青苹果"
+      ],
+      "quadrants": [
+        "温柔"
+      ],
+      "summary": "超能力高中生只想安静生活，却被奇葩同学包围。",
+      "rec": "节奏快、笑点密，适合放空。",
+      "year": "",
+      "creatorZh": "",
+      "creatorEn": "",
+      "creatorRole": "",
+      "image": "resources/Nourish_media/screen-048.jpg",
+      "pending": false
+    },
+    {
+      "id": "screen-049",
+      "title": "玛丽娜·阿布拉莫维奇：艺术家在场",
+      "en": "The Artist Is Present",
+      "kind": "影视",
+      "genre": "纪录片",
+      "tags": [
+        "焙茶",
+        "羊皮纸"
+      ],
+      "quadrants": [
+        "幽微",
+        "华丽"
+      ],
+      "summary": "记录行为艺术家大型回顾展及其与观众的凝视。",
+      "rec": "会让你重新理解“坐着”也能是艺术。",
+      "year": "",
+      "creatorZh": "",
+      "creatorEn": "",
+      "creatorRole": "",
+      "image": "resources/Nourish_media/screen-049.jpg",
+      "pending": false
+    },
+    {
+      "id": "screen-050",
+      "title": "良医",
+      "en": "The Good Doctor",
+      "kind": "影视",
+      "genre": "剧集",
+      "tags": [
+        "香根草",
+        "洋甘菊"
+      ],
+      "quadrants": [
+        "青涩"
+      ],
+      "summary": "自闭症外科住院医师在医疗体系中证明自己的能力。",
+      "rec": "医学剧的爽感与情感线都在线。",
+      "year": "2017",
+      "creatorZh": "大卫·肖",
+      "creatorEn": "David Shore",
+      "creatorRole": "创作者",
+      "image": "resources/Nourish_media/screen-050.jpg",
+      "pending": false
+    },
+    {
+      "id": "screen-051",
+      "title": "末代皇帝",
+      "en": "The Last Emperor",
+      "kind": "影视",
+      "genre": "电影 / 历史",
+      "tags": [
+        "沉香",
+        "晚香玉"
+      ],
+      "quadrants": [
+        "幽微"
+      ],
+      "summary": "溥仪从帝王到普通人的人生，被放进巨大的时代变动中。",
+      "rec": "服装、空间、人生，都很有规模。",
+      "year": "",
+      "creatorZh": "",
+      "creatorEn": "",
+      "creatorRole": "",
+      "image": "resources/Nourish_media/screen-051.jpg",
+      "pending": false
+    },
+    {
+      "id": "screen-052",
+      "title": "喜欢，轻吻，快跑",
+      "en": "Sorry Angel",
+      "kind": "影视",
+      "genre": "电影 / 爱情",
+      "tags": [
+        "紫罗兰",
+        "丝绒玫瑰"
+      ],
+      "quadrants": [
+        "华丽"
+      ],
+      "summary": "巴黎夏日里两位男性在年龄、疾病与欲望间靠近。",
+      "rec": "轻盈表面下藏着很深的告别。",
+      "year": "",
+      "creatorZh": "",
+      "creatorEn": "",
+      "creatorRole": "",
+      "image": "resources/Nourish_media/screen-052.jpg",
+      "pending": false
+    },
+    {
+      "id": "screen-053",
+      "title": "黑暗面",
+      "en": "The Hidden Face",
+      "kind": "影视",
+      "genre": "电影 / 悬疑",
+      "tags": [
+        "冷杉",
+        "威士忌"
+      ],
+      "quadrants": [
+        "凛冽",
+        "暗涌"
+      ],
+      "summary": "恋人失踪后，公寓里隐藏的真相逐层打开。",
+      "rec": "适合完全不看简介直接进。",
+      "year": "2011",
+      "creatorZh": "安德烈斯·拜斯",
+      "creatorEn": "Andrés Baiz",
+      "creatorRole": "导演",
+      "image": "resources/Nourish_media/screen-053.jpg",
+      "pending": false
+    },
+    {
+      "id": "screen-054",
+      "title": "弱点",
+      "en": "The Blind Side",
+      "kind": "影视",
+      "genre": "电影 / 体育",
+      "tags": [
+        "香草",
+        "青苹果"
+      ],
+      "quadrants": [
+        "青涩"
+      ],
+      "summary": "一名无家可归少年在家庭支持下走向橄榄球生涯。",
+      "rec": "温暖好看，但也可留心“救世主叙事”。",
+      "year": "",
+      "creatorZh": "",
+      "creatorEn": "",
+      "creatorRole": "",
+      "image": "resources/Nourish_media/screen-054.jpg",
+      "pending": false
+    },
+    {
+      "id": "screen-055",
+      "title": "特殊失踪专案组",
+      "en": "Missing: The Other Side",
+      "kind": "影视",
+      "genre": "剧集 / 奇幻悬疑",
+      "tags": [
+        "冷杉",
+        "洋甘菊"
+      ],
+      "quadrants": [
+        "凛冽",
+        "暗涌"
+      ],
+      "summary": "能看见失踪者灵魂的村庄，串联案件与遗憾。",
+      "rec": "悬疑里有很足的情感回收。",
+      "year": "",
+      "creatorZh": "",
+      "creatorEn": "",
+      "creatorRole": "",
+      "image": "resources/Nourish_media/screen-055.jpg",
+      "pending": false
+    },
+    {
+      "id": "screen-056",
+      "title": "心动讯号",
+      "en": "Heart Signal",
+      "kind": "影视",
+      "genre": "恋爱真人秀",
+      "tags": [
+        "白桃",
+        "佛手柑"
+      ],
+      "quadrants": [
+        "青涩"
+      ],
+      "summary": "陌生人同住，观察者与观众共同猜测心意流向。",
+      "rec": "适合社交电量低时轻松下饭。",
+      "year": "",
+      "creatorZh": "",
+      "creatorEn": "",
+      "creatorRole": "",
+      "image": "resources/Nourish_media/screen-056.jpg",
+      "pending": false
+    },
+    {
+      "id": "screen-057",
+      "title": "使者",
+      "en": "Tsugito",
+      "kind": "书籍",
+      "genre": "小说 / 日本当代文学",
+      "tags": [
+        "焙茶",
+        "洋甘菊"
+      ],
+      "quadrants": [
+        "青涩"
+      ],
+      "summary": "辻村深月笔下的青年能替逝者向生者传话；在一次次短暂相逢里，未说出口的遗憾获得安放。",
+      "rec": "温柔但不轻飘，像替每一次告别留出一句补白。",
+      "year": "2013（繁中版）",
+      "creatorZh": "辻村深月",
+      "creatorEn": "Mizuki Tsujimura",
+      "creatorRole": "作者",
+      "image": "resources/Nourish_media/screen-057.jpg",
+      "pending": false
+    },
+    {
+      "id": "screen-058",
+      "title": "真心半解",
+      "en": "The Half of It",
+      "kind": "影视",
+      "genre": "电影 / 青春",
+      "tags": [
+        "白桃",
+        "青苹果"
+      ],
+      "quadrants": [
+        "青涩"
+      ],
+      "summary": "聪明内向的女孩替同学写情书，却发现关系比代笔复杂。",
+      "rec": "安静、聪明、没有硬拗高潮。",
+      "year": "",
+      "creatorZh": "",
+      "creatorEn": "",
+      "creatorRole": "",
+      "image": "resources/Nourish_media/screen-058.jpg",
+      "pending": false
+    },
+    {
+      "id": "screen-059",
+      "title": "卡萨布兰卡",
+      "en": "Casablanca",
+      "kind": "影视",
+      "genre": "电影 / 经典爱情",
+      "tags": [
+        "烟草",
+        "丝绒玫瑰"
+      ],
+      "quadrants": [
+        "华丽"
+      ],
+      "summary": "战时酒吧里，旧爱重逢与道德选择交织。",
+      "rec": "经典不是因为台词，而是因为每个人都得放弃一点东西。",
+      "year": "",
+      "creatorZh": "",
+      "creatorEn": "",
+      "creatorRole": "",
+      "image": "resources/Nourish_media/screen-059.jpg",
+      "pending": false
+    },
+    {
+      "id": "screen-060",
+      "title": "One Day",
+      "en": "One Day",
+      "kind": "影视",
+      "genre": "剧集 / 爱情",
+      "tags": [
+        "紫罗兰",
+        "白桃"
+      ],
+      "quadrants": [
+        "华丽"
+      ],
+      "summary": "同名剧集版，扩展了原著关系的年表与细部。",
+      "rec": "如果电影意难平，剧版给你更多陪伴时间。",
+      "year": "",
+      "creatorZh": "",
+      "creatorEn": "",
+      "creatorRole": "",
+      "image": "resources/Nourish_media/screen-060.jpg",
+      "pending": false
+    },
+    {
+      "id": "screen-061",
+      "title": "普通人",
+      "en": "Normal People",
+      "kind": "影视",
+      "genre": "剧集 / 爱情",
+      "tags": [
+        "紫罗兰",
+        "冷杉"
+      ],
+      "quadrants": [
+        "华丽"
+      ],
+      "summary": "两位爱尔兰青年在亲密、阶层与自尊中反复靠近。",
+      "rec": "极会拍沉默；不要急着刷完。",
+      "year": "",
+      "creatorZh": "",
+      "creatorEn": "",
+      "creatorRole": "",
+      "image": "resources/Nourish_media/screen-061.jpg",
+      "pending": false
+    },
+    {
+      "id": "screen-062",
+      "title": "李焕英：你好，李焕英",
+      "en": "Hi, Mom",
+      "kind": "影视",
+      "genre": "电影 / 喜剧",
+      "tags": [
+        "桂花",
+        "洋甘菊"
+      ],
+      "quadrants": [
+        "温柔"
+      ],
+      "summary": "女儿穿回母亲年轻时代，想把遗憾改写成幸福。",
+      "rec": "笑到最后会忽然变得很安静。",
+      "year": "",
+      "creatorZh": "",
+      "creatorEn": "",
+      "creatorRole": "",
+      "image": "resources/Nourish_media/screen-062.jpg",
+      "pending": false
+    },
+    {
+      "id": "screen-063",
+      "title": "长安十二时辰",
+      "en": "The Longest Day in Chang’an",
+      "kind": "影视",
+      "genre": "剧集 / 古装悬疑",
+      "tags": [
+        "冷杉",
+        "威士忌"
+      ],
+      "quadrants": [
+        "凛冽",
+        "暗涌"
+      ],
+      "summary": "上元节十二时辰内，一场阴谋与城市众生赛跑。",
+      "rec": "美术和节奏都很适合沉浸式追。",
+      "year": "",
+      "creatorZh": "",
+      "creatorEn": "",
+      "creatorRole": "",
+      "image": "resources/Nourish_media/screen-063.jpg",
+      "pending": false
+    },
+    {
+      "id": "screen-064",
+      "title": "一个叫欧维的男人决定去死",
+      "en": "A Man Called Ove",
+      "kind": "影视",
+      "genre": "电影 / 温情",
+      "tags": [
+        "洋甘菊",
+        "烤栗子"
+      ],
+      "quadrants": [
+        "温柔"
+      ],
+      "summary": "固执老人被新邻居一点点拉回生活。",
+      "rec": "很会按住你的笑，再突然让你哭。",
+      "year": "2015",
+      "creatorZh": "汉内斯·霍尔姆",
+      "creatorEn": "Hannes Holm",
+      "creatorRole": "导演",
+      "image": "resources/Nourish_media/screen-064.jpg",
+      "pending": false
+    },
+    {
+      "id": "screen-065",
+      "title": "十日游戏",
+      "en": "Kidnapping Game",
+      "kind": "影视",
+      "genre": "剧集 / 悬疑",
+      "tags": [
+        "冷杉",
+        "威士忌"
+      ],
+      "quadrants": [
+        "凛冽",
+        "暗涌"
+      ],
+      "summary": "一场绑架游戏逐渐失控，真相层层反转。",
+      "rec": "想要短剧高密度悬疑时选。",
+      "year": "",
+      "creatorZh": "",
+      "creatorEn": "",
+      "creatorRole": "",
+      "image": "resources/Nourish_media/screen-065.jpg",
+      "pending": false
+    },
+    {
+      "id": "screen-066",
+      "title": "汉密尔顿",
+      "en": "Hamilton",
+      "kind": "其他",
+      "genre": "音乐剧 / 现场影像",
+      "tags": [
+        "晚香玉",
+        "威士忌"
+      ],
+      "quadrants": [
+        "幽微",
+        "华丽"
+      ],
+      "summary": "用嘻哈、R&B 与百老汇重述美国建国者的一生。",
+      "rec": "先听原声，再看舞台，信息量会更享受。",
+      "year": "",
+      "creatorZh": "",
+      "creatorEn": "",
+      "creatorRole": "",
+      "image": "resources/Nourish_media/screen-066.jpg",
+      "pending": false
+    },
+    {
+      "id": "screen-067",
+      "title": "夏天的故事",
+      "en": "A Summer’s Tale",
+      "kind": "影视",
+      "genre": "电影 / 侯麦",
+      "tags": [
+        "白桃",
+        "佛手柑"
+      ],
+      "quadrants": [
+        "华丽"
+      ],
+      "summary": "海边假期里，一位年轻人在三段关系间摇摆。",
+      "rec": "侯麦式轻盈：聊天里全是欲望与自欺。",
+      "year": "1996",
+      "creatorZh": "伊力·盧馬",
+      "creatorEn": "Éric Rohmer",
+      "creatorRole": "导演",
+      "image": "resources/Nourish_media/screen-067.jpg",
+      "pending": false
+    },
+    {
+      "id": "screen-068",
+      "title": "杀死伊芙",
+      "en": "Killing Eve",
+      "kind": "影视",
+      "genre": "剧集 / 惊悚",
+      "tags": [
+        "威士忌",
+        "丝绒玫瑰"
+      ],
+      "quadrants": [
+        "凛冽",
+        "暗涌"
+      ],
+      "summary": "情报员与女杀手彼此着迷、追逐并失控。",
+      "rec": "前两季尤其锐利，时髦又危险。",
+      "year": "",
+      "creatorZh": "",
+      "creatorEn": "",
+      "creatorRole": "",
+      "image": "resources/Nourish_media/screen-068.jpg",
+      "pending": false
+    },
+    {
+      "id": "screen-069",
+      "title": "死亡诗社",
+      "en": "Dead Poets Society",
+      "kind": "影视",
+      "genre": "电影 / 校园",
+      "tags": [
+        "羊皮纸",
+        "乳香"
+      ],
+      "quadrants": [
+        "幽微"
+      ],
+      "summary": "老师用诗歌唤醒学生，却碰上保守制度与家庭压力。",
+      "rec": "“抓住今天”很动人，也很复杂。",
+      "year": "",
+      "creatorZh": "",
+      "creatorEn": "",
+      "creatorRole": "",
+      "image": "resources/Nourish_media/screen-069.jpg",
+      "pending": false
+    },
+    {
+      "id": "screen-070",
+      "title": "和沙莫的五百天",
+      "en": "(500) Days of Summer",
+      "kind": "影视",
+      "genre": "电影 / 爱情",
+      "tags": [
+        "白桃",
+        "紫罗兰"
+      ],
+      "quadrants": [
+        "华丽"
+      ],
+      "summary": "非线性拆解一段关系如何被期待、记忆与误解塑造。",
+      "rec": "恋爱脑清醒剂，配歌单更好。",
+      "year": "",
+      "creatorZh": "",
+      "creatorEn": "",
+      "creatorRole": "",
+      "image": "resources/Nourish_media/screen-070.jpg",
+      "pending": false
+    },
+    {
+      "id": "screen-071",
+      "title": "超脱",
+      "en": "Detachment",
+      "kind": "影视",
+      "genre": "电影 / 剧情",
+      "tags": [
+        "冷杉",
+        "洋甘菊"
+      ],
+      "quadrants": [
+        "青涩"
+      ],
+      "summary": "代课老师进入问题学校，也直面自己的创伤与疏离。",
+      "rec": "很沉，适合状态稳定时看。",
+      "year": "",
+      "creatorZh": "",
+      "creatorEn": "",
+      "creatorRole": "",
+      "image": "resources/Nourish_media/screen-071.jpg",
+      "pending": false
+    },
+    {
+      "id": "screen-072",
+      "title": "非正常死亡",
+      "en": "Unnatural",
+      "kind": "影视",
+      "genre": "剧集 / 医疗悬疑",
+      "tags": [
+        "冷杉",
+        "香根草"
+      ],
+      "quadrants": [
+        "凛冽",
+        "暗涌"
+      ],
+      "summary": "法医团队通过非正常死因追问医学与制度。",
+      "rec": "案件有钩子，角色也有温度。",
+      "year": "",
+      "creatorZh": "",
+      "creatorEn": "",
+      "creatorRole": "",
+      "image": "resources/Nourish_media/screen-072.jpg",
+      "pending": false
+    },
+    {
+      "id": "screen-073",
+      "title": "异星灾变",
+      "en": "Raised by Wolves",
+      "kind": "影视",
+      "genre": "剧集 / 科幻",
+      "tags": [
+        "杜松子",
+        "乳香"
+      ],
+      "quadrants": [
+        "凛冽"
+      ],
+      "summary": "人类在异星由仿生人抚养，信仰与生存再次冲突。",
+      "rec": "视觉奇诡，适合喜欢硬核设定的人。",
+      "year": "",
+      "creatorZh": "",
+      "creatorEn": "",
+      "creatorRole": "",
+      "image": "resources/Nourish_media/screen-073.jpg",
+      "pending": false
+    },
+    {
+      "id": "screen-074",
+      "title": "纸牌屋",
+      "en": "House of Cards",
+      "kind": "影视",
+      "genre": "剧集 / 政治惊悚",
+      "tags": [
+        "沉香",
+        "威士忌"
+      ],
+      "quadrants": [
+        "幽微"
+      ],
+      "summary": "权力夫妻在华盛顿步步算计、不断越界。",
+      "rec": "前期很上头；当成权力寓言看更好。",
+      "year": "",
+      "creatorZh": "",
+      "creatorEn": "",
+      "creatorRole": "",
+      "image": "resources/Nourish_media/screen-074.jpg",
+      "pending": false
+    },
+    {
+      "id": "screen-075",
+      "title": "是的首相",
+      "en": "Yes, Prime Minister",
+      "kind": "影视",
+      "genre": "英剧 / 政治喜剧",
+      "tags": [
+        "羊皮纸",
+        "威士忌"
+      ],
+      "quadrants": [
+        "幽微"
+      ],
+      "summary": "首相、内阁与公务员用语言和程序互相牵制。",
+      "rec": "政治喜剧的教科书，台词密度极高。",
+      "year": "",
+      "creatorZh": "",
+      "creatorEn": "",
+      "creatorRole": "",
+      "image": "resources/Nourish_media/screen-075.jpg",
+      "pending": false
+    },
+    {
+      "id": "screen-076",
+      "title": "完美星球",
+      "en": "A Perfect Planet",
+      "kind": "影视",
+      "genre": "纪录片",
+      "tags": [
+        "竹叶",
+        "雪松"
+      ],
+      "quadrants": [
+        "青涩"
+      ],
+      "summary": "以五种自然力量解释地球生态系统如何运作。",
+      "rec": "大屏看，地球像一件精密的艺术品。",
+      "year": "",
+      "creatorZh": "",
+      "creatorEn": "",
+      "creatorRole": "",
+      "image": "resources/Nourish_media/screen-076.jpg",
+      "pending": false
+    },
+    {
+      "id": "screen-077",
+      "title": "安妮·霍尔",
+      "en": "Annie Hall",
+      "kind": "影视",
+      "genre": "电影 / 爱情喜剧",
+      "tags": [
+        "紫罗兰",
+        "佛手柑"
+      ],
+      "quadrants": [
+        "华丽"
+      ],
+      "summary": "一段纽约恋情被神经质笑话与记忆碎片重新拼装。",
+      "rec": "机智、松弛，失恋也能拍得有趣。",
+      "year": "",
+      "creatorZh": "",
+      "creatorEn": "",
+      "creatorRole": "",
+      "image": "resources/Nourish_media/screen-077.jpg",
+      "pending": false
+    },
+    {
+      "id": "screen-078",
+      "title": "天堂电影院",
+      "en": "Cinema Paradiso",
+      "kind": "影视",
+      "genre": "电影 / 怀旧",
+      "tags": [
+        "焙茶",
+        "香草"
+      ],
+      "quadrants": [
+        "青涩"
+      ],
+      "summary": "男孩与放映师的友谊，连着电影、乡镇与一生的记忆。",
+      "rec": "爱电影的人几乎无法不被击中。",
+      "year": "1988",
+      "creatorZh": "朱賽貝·托納多雷",
+      "creatorEn": "Giuseppe Tornatore",
+      "creatorRole": "导演",
+      "image": "resources/Nourish_media/screen-078.jpg",
+      "pending": false
+    },
+    {
+      "id": "screen-079",
+      "title": "实习医生格蕾",
+      "en": "Grey’s Anatomy",
+      "kind": "影视",
+      "genre": "剧集 / 医疗",
+      "tags": [
+        "洋甘菊",
+        "黑咖啡"
+      ],
+      "quadrants": [
+        "青涩"
+      ],
+      "summary": "医院中长年累积的职业选择、友谊与爱情。",
+      "rec": "集数很长，适合当长期陪伴剧。",
+      "year": "",
+      "creatorZh": "",
+      "creatorEn": "",
+      "creatorRole": "",
+      "image": "resources/Nourish_media/screen-079.jpg",
+      "pending": false
+    },
+    {
+      "id": "screen-080",
+      "title": "The Nightmare (2015)",
+      "en": "The Nightmare",
+      "kind": "影视",
+      "genre": "纪录片 / 睡眠",
+      "tags": [
+        "冷杉",
+        "乳香"
+      ],
+      "quadrants": [
+        "凛冽",
+        "暗涌"
+      ],
+      "summary": "聚焦睡眠瘫痪者的恐惧经验与幻觉叙述。",
+      "rec": "别在独自熬夜前看。",
+      "year": "",
+      "creatorZh": "",
+      "creatorEn": "",
+      "creatorRole": "",
+      "image": "resources/Nourish_media/screen-080.jpg",
+      "pending": false
+    },
+    {
+      "id": "screen-081",
+      "title": "潜伏",
+      "en": "Lurk",
+      "kind": "影视",
+      "genre": "剧集 / 民国谍战 / 2008",
+      "tags": [
+        "烟草",
+        "威士忌"
+      ],
+      "quadrants": [
+        "青涩"
+      ],
+      "summary": "抗战胜利前后，中共地下工作者余则成潜入国民党天津站；卧底生活与临时婚姻让信仰、日常和生存彼此纠缠。",
+      "rec": "不是靠反转取胜，而是把潜伏的沉默、耐心与人情拍得极有张力。",
+      "year": "2008",
+      "creatorZh": "姜伟、付玮",
+      "creatorEn": "Jiang Wei, Fu Wei",
+      "creatorRole": "导演",
+      "image": "resources/Nourish_media/screen-081.jpg",
+      "pending": false
+    },
+    {
+      "id": "screen-082",
+      "title": "珠穆朗玛：云中彼岸",
+      "en": "Everest: The Other Side",
+      "kind": "影视",
+      "genre": "国家地理纪录片 / 2026",
+      "tags": [
+        "雪松",
+        "旧皮革"
+      ],
+      "quadrants": [
+        "青涩"
+      ],
+      "summary": "吉姆·莫里森与希拉莉·尼尔森挑战珠峰北壁，并尝试从峰顶滑降；这场极限远征也承载着爱、失去与继续前行的重量。",
+      "rec": "不只是登山纪录片，而是一部把敬畏、悲伤与不可能同时推到极限的电影。",
+      "year": "2026",
+      "creatorZh": "伊丽莎白·柴·瓦沙瑞莉、金国威",
+      "creatorEn": "Elizabeth Chai Vasarhelyi / Jimmy Chin",
+      "creatorRole": "导演",
+      "image": "resources/Nourish_media/screen-082.jpg",
+      "pending": false
+    },
+    {
+      "id": "screen-083",
+      "title": "懦夫",
+      "en": "Coward",
+      "kind": "影视",
+      "genre": "电影 / 战争剧情 / 2026",
+      "tags": [
+        "旧皮革",
+        "乳香"
+      ],
+      "quadrants": [
+        "幽微"
+      ],
+      "summary": "一战期间，比利时士兵皮埃尔试图在战场上证明自己，并在前线剧团的表演里遇见另一种勇气。",
+      "rec": "战争、表演与亲密关系交缠在一起；适合想看新一代欧洲作者电影时选它。",
+      "year": "",
+      "creatorZh": "",
+      "creatorEn": "",
+      "creatorRole": "",
+      "image": "resources/Nourish_media/screen-083.jpg",
+      "pending": false
+    },
+    {
+      "id": "screen-084",
+      "title": "All of Us Strangers",
+      "en": "All of Us Strangers",
+      "kind": "影视",
+      "genre": "电影 / 幻想爱情",
+      "tags": [
+        "紫罗兰",
+        "洋甘菊"
+      ],
+      "quadrants": [
+        "华丽"
+      ],
+      "summary": "孤独男子在新恋情中回到父母仍在世的幻象，触碰未完成的爱。",
+      "rec": "柔软得近乎透明，后劲非常大。",
+      "year": "",
+      "creatorZh": "",
+      "creatorEn": "",
+      "creatorRole": "",
+      "image": "resources/Nourish_media/screen-084.jpg",
+      "pending": false
+    },
+    {
+      "id": "screen-085",
+      "title": "帕特里克·汉密尔顿的戏剧《绳索》",
+      "en": "Rope",
+      "kind": "其他",
+      "genre": "戏剧 / 惊悚",
+      "tags": [
+        "威士忌",
+        "冷杉"
+      ],
+      "quadrants": [
+        "青涩"
+      ],
+      "summary": "两名青年以谋杀进行优越感实验，客人就在尸体旁聚会。",
+      "rec": "舞台张力是慢慢拧紧的螺丝。",
+      "year": "",
+      "creatorZh": "",
+      "creatorEn": "",
+      "creatorRole": "",
+      "image": "resources/Nourish_media/screen-085.jpg",
+      "pending": false
+    },
+    {
+      "id": "screen-086",
+      "title": "播客：无法还原的世界",
+      "en": "无法还原的世界",
+      "kind": "其他",
+      "genre": "播客",
+      "tags": [
+        "焙茶",
+        "羊皮纸"
+      ],
+      "quadrants": [
+        "青涩"
+      ],
+      "summary": "以声音讨论不可复原的经验、故事或社会议题；具体节目请补平台。",
+      "rec": "适合先从感兴趣的单集试听。",
+      "year": "",
+      "creatorZh": "",
+      "creatorEn": "",
+      "creatorRole": "",
+      "image": "",
+      "pending": false
+    },
+    {
+      "id": "screen-087",
+      "title": "和平之上",
+      "en": "Master Peace",
+      "kind": "影视",
+      "genre": "电影 / 韩国 / 动画短片",
+      "tags": [
+        "黑咖啡",
+        "威士忌"
+      ],
+      "quadrants": [
+        "温柔"
+      ],
+      "summary": "崔元载以定格动画写一名创作者追逐“杰作”时的偏执、身体劳动与荒诞自嘲。",
+      "rec": "十三分钟的黑色小品，适合在创作焦虑袭来时看。",
+      "year": "2009",
+      "creatorZh": "崔元载",
+      "creatorEn": "Choi Won-jae",
+      "creatorRole": "导演",
+      "image": "resources/Nourish_media/screen-087.jpg",
+      "pending": false
+    },
+    {
+      "id": "screen-088",
+      "title": "保镖恋人",
+      "en": "Enfrentados: Marfil / Marfil",
+      "kind": "影视",
+      "genre": "电影 / 爱情悬疑",
+      "tags": [
+        "丝绒玫瑰",
+        "威士忌"
+      ],
+      "quadrants": [
+        "华丽"
+      ],
+      "summary": "西班牙富商之女马尔菲尔在纽约遭绑架后被雇佣保镖塞巴斯蒂安保护；两人在危险与互不信任中靠近。",
+      "rec": "爱情张力和悬疑感并行，适合想看一点危险浪漫时打开。",
+      "year": "2026",
+      "creatorZh": "奥斯卡·佩德拉萨",
+      "creatorEn": "Óscar Pedraza",
+      "creatorRole": "导演",
+      "image": "resources/Nourish_media/screen-088.jpg",
+      "pending": false
+    },
+    {
+      "id": "screen-089",
+      "title": "我变美的那个夏天",
+      "en": "The Summer I Turned Pretty",
+      "kind": "影视",
+      "genre": "剧集 / 青春爱情",
+      "tags": [
+        "白桃",
+        "青苹果"
+      ],
+      "quadrants": [
+        "华丽"
+      ],
+      "summary": "少女在夏天与两兄弟之间面对成长、家庭与初恋。",
+      "rec": "海边、配乐、心动：很适合夏天连看。",
+      "year": "2022",
+      "creatorZh": "珍妮·韩",
+      "creatorEn": "Jenny Han",
+      "creatorRole": "主创",
+      "image": "resources/Nourish_media/screen-089.jpg",
+      "pending": false
+    },
+    {
+      "id": "screen-090",
+      "title": "路西法",
+      "en": "Lucifer",
+      "kind": "影视",
+      "genre": "剧集 / 奇幻犯罪",
+      "tags": [
+        "威士忌",
+        "丝绒玫瑰"
+      ],
+      "quadrants": [
+        "凛冽",
+        "暗涌"
+      ],
+      "summary": "厌倦地狱之王的路西法来到洛杉矶，与警探破案。",
+      "rec": "轻松犯罪剧里塞了很多魅力值。",
+      "year": "2016",
+      "creatorZh": "湯姆‧卡平諾",
+      "creatorEn": "Tom Kapinos",
+      "creatorRole": "创作者",
+      "image": "resources/Nourish_media/screen-090.jpg",
+      "pending": false
+    },
+    {
+      "id": "screen-091",
+      "title": "萨勒姆的女巫",
+      "en": "The Crucible",
+      "kind": "其他",
+      "genre": "戏剧 / 阿瑟·米勒",
+      "tags": [
+        "乳香",
+        "威士忌"
+      ],
+      "quadrants": [
+        "青涩"
+      ],
+      "summary": "塞勒姆审巫案成为恐惧、权力与告密政治的寓言。",
+      "rec": "当现实开始互相指控时，它永远会回来。",
+      "year": "",
+      "creatorZh": "",
+      "creatorEn": "",
+      "creatorRole": "",
+      "image": "resources/Nourish_media/screen-091.jpg",
+      "pending": false
+    },
+    {
+      "id": "screen-092",
+      "title": "恶",
+      "en": "Demons",
+      "kind": "书籍",
+      "genre": "小说 / 陀思妥耶夫斯基",
+      "tags": [
+        "沉香",
+        "威士忌"
+      ],
+      "quadrants": [
+        "幽微"
+      ],
+      "summary": "革命理想、宗教虚无与私人怨恨在一座俄国小城彼此点燃；一场政治阴谋逐渐吞没所有人。",
+      "rec": "比《罪与罚》更像一场失控的思想瘟疫：阴冷、尖锐，而且非常现代。",
+      "year": "",
+      "creatorZh": "",
+      "creatorEn": "",
+      "creatorRole": "",
+      "image": "resources/Nourish_media/screen-092.jpg",
+      "pending": false
+    },
+    {
+      "id": "screen-093",
+      "title": "平行故事",
+      "en": "Parallel Mothers",
+      "kind": "影视",
+      "genre": "电影 / 阿莫多瓦",
+      "tags": [
+        "紫罗兰",
+        "乳香"
+      ],
+      "quadrants": [
+        "青涩"
+      ],
+      "summary": "两位产妇因孩子与记忆相连，私人故事通向历史创伤。",
+      "rec": "色彩浓烈，情感却很克制。",
+      "year": "",
+      "creatorZh": "",
+      "creatorEn": "",
+      "creatorRole": "",
+      "image": "resources/Nourish_media/screen-093.jpg",
+      "pending": false
+    },
+    {
+      "id": "screen-094",
+      "title": "拥挤的房间",
+      "en": "The Crowded Room",
+      "kind": "影视",
+      "genre": "剧集 / 心理惊悚",
+      "tags": [
+        "冷杉",
+        "乳香"
+      ],
+      "quadrants": [
+        "青涩"
+      ],
+      "summary": "围绕身份、创伤与犯罪调查展开。",
+      "rec": "设定强，适合喜欢心理谜题。",
+      "year": "",
+      "creatorZh": "",
+      "creatorEn": "",
+      "creatorRole": "",
+      "image": "resources/Nourish_media/screen-094.jpg",
+      "pending": false
+    },
+    {
+      "id": "screen-095",
+      "title": "世界上最糟糕的人",
+      "en": "The Worst Person in the World",
+      "kind": "影视",
+      "genre": "电影 / 成长爱情",
+      "tags": [
+        "佛手柑",
+        "紫罗兰"
+      ],
+      "quadrants": [
+        "华丽"
+      ],
+      "summary": "奥斯陆女孩在爱情、工作与自我定义之间不断改写人生。",
+      "rec": "轻盈、机智、真实得让人发疼。",
+      "year": "",
+      "creatorZh": "",
+      "creatorEn": "",
+      "creatorRole": "",
+      "image": "resources/Nourish_media/screen-095.jpg",
+      "pending": false
+    },
+    {
+      "id": "screen-096",
+      "title": "绝望主妇",
+      "en": "Desperate Housewives",
+      "kind": "影视",
+      "genre": "剧集 / 黑色喜剧",
+      "tags": [
+        "丝绒玫瑰",
+        "威士忌"
+      ],
+      "quadrants": [
+        "温柔"
+      ],
+      "summary": "郊区主妇们在完美草坪下藏着欲望、秘密与谋杀。",
+      "rec": "肥皂剧的快乐和黑色幽默一次到位。",
+      "year": "2004",
+      "creatorZh": "马克·切利",
+      "creatorEn": "Marc Cherry",
+      "creatorRole": "创作者",
+      "image": "resources/Nourish_media/screen-096.jpg",
+      "pending": false
+    },
+    {
+      "id": "screen-097",
+      "title": "四重奏",
+      "en": "Quartet",
+      "kind": "影视",
+      "genre": "日剧 / 爱情群像",
+      "tags": [
+        "焙茶",
+        "紫罗兰"
+      ],
+      "quadrants": [
+        "华丽"
+      ],
+      "summary": "四个失意音乐人在轻井泽合住，重新面对爱情与人生。",
+      "rec": "台词像细雪，慢慢落到心上。",
+      "year": "",
+      "creatorZh": "",
+      "creatorEn": "",
+      "creatorRole": "",
+      "image": "resources/Nourish_media/screen-097.jpg",
+      "pending": false
+    },
+    {
+      "id": "screen-098",
+      "title": "漫长的季节",
+      "en": "The Long Season",
+      "kind": "影视",
+      "genre": "剧集 / 悬疑",
+      "tags": [
+        "冷杉",
+        "乳香"
+      ],
+      "quadrants": [
+        "凛冽",
+        "暗涌"
+      ],
+      "summary": "东北小城跨越多年的旧案，连着工厂、家庭和时代失速。",
+      "rec": "近年华语剧必看：幽默与悲凉并行。",
+      "year": "",
+      "creatorZh": "",
+      "creatorEn": "",
+      "creatorRole": "",
+      "image": "resources/Nourish_media/screen-098.jpg",
+      "pending": false
+    },
+    {
+      "id": "screen-099",
+      "title": "搏击俱乐部",
+      "en": "Fight Club",
+      "kind": "影视",
+      "genre": "电影 / 黑色讽刺",
+      "tags": [
+        "烟草",
+        "杜松子"
+      ],
+      "quadrants": [
+        "青涩"
+      ],
+      "summary": "厌倦消费社会的男人们建立地下俱乐部，失控成反叛神话。",
+      "rec": "先看电影，再讨论它究竟在讽刺谁。",
+      "year": "",
+      "creatorZh": "",
+      "creatorEn": "",
+      "creatorRole": "",
+      "image": "resources/Nourish_media/screen-099.jpg",
+      "pending": false
+    },
+    {
+      "id": "screen-100",
+      "title": "为了报仇看电影",
+      "en": "Watching Movies for Revenge",
+      "kind": "书籍",
+      "genre": "电影随笔集 / 韩松落 / 上海三联书店 / 2010",
+      "tags": [
+        "黑咖啡",
+        "烟草"
+      ],
+      "quadrants": [
+        "暗涌",
+        "幽微"
+      ],
+      "summary": "作家韩松落以电影为入口，写记忆、城市、欲望与那些无法轻易放下的私人时刻。",
+      "rec": "不是评分指南，是把电影当作人生线索来读的一本随笔集。",
+      "year": "2010",
+      "creatorZh": "韩松落",
+      "creatorEn": "Han Songluo",
+      "creatorRole": "作者",
+      "image": "resources/Nourish_media/screen-100.jpg",
+      "pending": false
+    },
+    {
+      "id": "screen-101",
+      "title": "婚外情事",
+      "en": "The Affair",
+      "kind": "影视",
+      "genre": "美剧 / 剧情 / 2014–2019 / 5 季",
+      "tags": [
+        "冷杉",
+        "紫罗兰"
+      ],
+      "quadrants": [
+        "青涩"
+      ],
+      "summary": "一段婚外关系从双方及其伴侣的不同记忆中被反复讲述；同一件事，会因叙述者不同而变成另一种真相。",
+      "rec": "它最锋利的地方不是八卦，而是让你亲自体验“记忆不可靠”有多伤人。",
+      "year": "2014",
+      "creatorZh": "萨拉·特里姆、哈加伊·列维",
+      "creatorEn": "Sarah Treem / Hagai Levi",
+      "creatorRole": "主创",
+      "image": "resources/Nourish_media/screen-101.jpg",
+      "pending": false
+    },
+    {
+      "id": "screen-102",
+      "title": "路边野餐",
+      "en": "Kaili Blues",
+      "kind": "影视",
+      "genre": "电影 / 毕赣",
+      "tags": [
+        "焙茶",
+        "冷杉"
+      ],
+      "quadrants": [
+        "青涩"
+      ],
+      "summary": "诗性长镜头穿行贵州小城、记忆与时间。",
+      "rec": "别急着“看懂”，先被它带着走。",
+      "year": "2015",
+      "creatorZh": "毕赣",
+      "creatorEn": "Bi Gan",
+      "creatorRole": "导演",
+      "image": "resources/Nourish_media/screen-102.jpg",
+      "pending": false
+    },
+    {
+      "id": "screen-103",
+      "title": "恋爱的犀牛",
+      "en": "Rhinoceros in Love",
+      "kind": "其他",
+      "genre": "舞台剧 / 孟京辉",
+      "tags": [
+        "丝绒玫瑰",
+        "乳香"
+      ],
+      "quadrants": [
+        "华丽"
+      ],
+      "summary": "马路为明明献出偏执的爱情，成为一代青年戏剧记忆。",
+      "rec": "去现场最好；它属于舞台的呼吸。",
+      "year": "1999",
+      "creatorZh": "孟京辉、廖一梅",
+      "creatorEn": "Meng Jinghui / Liao Yimei",
+      "creatorRole": "导演 / 编剧",
+      "image": "resources/Nourish_media/screen-103.jpg",
+      "pending": false
+    },
+    {
+      "id": "screen-104",
+      "title": "喜剧之王",
+      "en": "King of Comedy",
+      "kind": "影视",
+      "genre": "电影 / 周星驰",
+      "tags": [
+        "烤栗子",
+        "桂花"
+      ],
+      "quadrants": [
+        "温柔"
+      ],
+      "summary": "小人物执拗追梦，笑料背后都是生存的酸涩。",
+      "rec": "“我养你啊”之前，先看见他的认真。",
+      "year": "",
+      "creatorZh": "",
+      "creatorEn": "",
+      "creatorRole": "",
+      "image": "resources/Nourish_media/screen-104.jpg",
+      "pending": false
+    },
+    {
+      "id": "screen-105",
+      "title": "绿皮书",
+      "en": "Green Book",
+      "kind": "影视",
+      "genre": "电影 / 公路",
+      "tags": [
+        "旧皮革",
+        "洋甘菊"
+      ],
+      "quadrants": [
+        "青涩"
+      ],
+      "summary": "黑人钢琴家与意大利裔司机在种族隔离时代南下巡演。",
+      "rec": "好看顺滑，也可顺便补看更多黑人作者的作品。",
+      "year": "",
+      "creatorZh": "",
+      "creatorEn": "",
+      "creatorRole": "",
+      "image": "resources/Nourish_media/screen-105.jpg",
+      "pending": false
+    },
+    {
+      "id": "screen-106",
+      "title": "奶奶的现代社会指南",
+      "en": "A Granny's Guide to the Modern World",
+      "kind": "影视",
+      "genre": "Channel 4 人文纪录片 / 2016 / 3 集",
+      "tags": [
+        "焙茶",
+        "香根草"
+      ],
+      "quadrants": [
+        "幽微"
+      ],
+      "summary": "由 Barry Humphries 主持，三集短纪录片以老一辈的目光观察现代社会。",
+      "rec": "每集约二十四分钟；适合想轻巧地换一个世代视角时看。",
+      "year": "2016",
+      "creatorZh": "巴里·汉弗莱斯",
+      "creatorEn": "Barry Humphries",
+      "creatorRole": "主持",
+      "image": "resources/Nourish_media/screen-106.jpg",
+      "pending": false
+    },
+    {
+      "id": "screen-107",
+      "title": "当哈利遇到莎莉",
+      "en": "When Harry Met Sally...",
+      "kind": "影视",
+      "genre": "电影 / 爱情喜剧",
+      "tags": [
+        "丝绒玫瑰",
+        "佛手柑"
+      ],
+      "quadrants": [
+        "华丽"
+      ],
+      "summary": "两位朋友多年争论男女能否纯友谊，最终面对彼此。",
+      "rec": "对话好到可以反复重看。",
+      "year": "",
+      "creatorZh": "",
+      "creatorEn": "",
+      "creatorRole": "",
+      "image": "resources/Nourish_media/screen-107.jpg",
+      "pending": false
+    },
+    {
+      "id": "screen-108",
+      "title": "Never Have I Ever",
+      "en": "好想做一次",
+      "kind": "影视",
+      "genre": "剧集 / 青春喜剧",
+      "tags": [
+        "白桃",
+        "青苹果"
+      ],
+      "quadrants": [
+        "青涩"
+      ],
+      "summary": "印度裔美国少女在悲伤、学业与恋爱中重新长大。",
+      "rec": "节奏轻快，女主很有生命力。",
+      "year": "",
+      "creatorZh": "",
+      "creatorEn": "",
+      "creatorRole": "",
+      "image": "resources/Nourish_media/screen-108.jpg",
+      "pending": false
+    },
+    {
+      "id": "screen-109",
+      "title": "为情所困",
+      "en": "Éperdument / Down by Love",
+      "kind": "影视",
+      "genre": "电影 / 法国比利时 / 爱情",
+      "tags": [
+        "丝绒玫瑰",
+        "乳香"
+      ],
+      "quadrants": [
+        "华丽"
+      ],
+      "summary": "皮埃尔·戈多写一名狱警与女囚之间越过边界的关系，在欲望、权力与失控间不断滑坡。",
+      "rec": "不是浪漫糖衣；它更在意爱如何让人失去立足点。",
+      "year": "2016",
+      "creatorZh": "皮埃尔·戈多",
+      "creatorEn": "Pierre Godeau",
+      "creatorRole": "导演",
+      "image": "resources/Nourish_media/screen-109.jpg",
+      "pending": false
+    },
+    {
+      "id": "screen-110",
+      "title": "我的错",
+      "en": "My Fault",
+      "kind": "影视",
+      "genre": "电影 / 青春爱情",
+      "tags": [
+        "威士忌",
+        "白桃"
+      ],
+      "quadrants": [
+        "华丽"
+      ],
+      "summary": "继兄妹关系与危险浪漫共同驱动的青春改编片。",
+      "rec": "狗血浓度高，适合纯放松。",
+      "year": "",
+      "creatorZh": "",
+      "creatorEn": "",
+      "creatorRole": "",
+      "image": "resources/Nourish_media/screen-110.jpg",
+      "pending": false
+    },
+    {
+      "id": "screen-111",
+      "title": "BJ单身日记",
+      "en": "Bridget Jones’s Diary",
+      "kind": "影视",
+      "genre": "电影 / 爱情喜剧",
+      "tags": [
+        "佛手柑",
+        "白桃"
+      ],
+      "quadrants": [
+        "华丽"
+      ],
+      "summary": "伦敦单身女性在职场、体重与两段感情里跌跌撞撞。",
+      "rec": "冬天、红酒、毛毯的完美组合。",
+      "year": "",
+      "creatorZh": "",
+      "creatorEn": "",
+      "creatorRole": "",
+      "image": "resources/Nourish_media/screen-111.jpg",
+      "pending": false
+    },
+    {
+      "id": "screen-112",
+      "title": "廊桥遗梦",
+      "en": "The Bridges of Madison County",
+      "kind": "影视",
+      "genre": "电影 / 爱情",
+      "tags": [
+        "紫罗兰",
+        "烤栗子"
+      ],
+      "quadrants": [
+        "华丽"
+      ],
+      "summary": "家庭主妇与摄影师的短暂相遇，改变彼此一生。",
+      "rec": "不是轰烈，是成年人最难的那种爱。",
+      "year": "1995",
+      "creatorZh": "克林·伊斯威特",
+      "creatorEn": "Clint Eastwood",
+      "creatorRole": "导演",
+      "image": "resources/Nourish_media/screen-112.jpg",
+      "pending": false
+    },
+    {
+      "id": "screen-113",
+      "title": "流金岁月",
+      "en": "Last Romance",
+      "kind": "影视",
+      "genre": "电影 / 香港 / 爱情",
+      "tags": [
+        "晚香玉",
+        "紫罗兰"
+      ],
+      "quadrants": [
+        "华丽"
+      ],
+      "summary": "杨凡改编亦舒小说，由钟楚红与张曼玉演绎两位少女跨越十年的友情、爱情与城市变迁。",
+      "rec": "张曼玉和钟楚红的光影本身，就值得把它留给一个周末夜晚。",
+      "year": "1988",
+      "creatorZh": "杨凡",
+      "creatorEn": "Yonfan",
+      "creatorRole": "导演",
+      "image": "resources/Nourish_media/screen-113.jpg",
+      "pending": false
+    },
+    {
+      "id": "screen-114",
+      "title": "混沌少年时",
+      "en": "Adolescence",
+      "kind": "影视",
+      "genre": "Netflix 剧集 / 犯罪 / 2025",
+      "tags": [
+        "冷杉",
+        "威士忌"
+      ],
+      "quadrants": [
+        "凛冽",
+        "暗涌"
+      ],
+      "summary": "一名少年被控杀害同学；四集以近乎实时的方式进入家庭、学校与调查现场，追问暴力如何在日常中生成。",
+      "rec": "短，但压迫感极强：它不提供轻易的答案，只让你无法移开视线。",
+      "year": "2025",
+      "creatorZh": "菲利普·巴兰蒂尼",
+      "creatorEn": "Philip Barantini",
+      "creatorRole": "导演",
+      "image": "resources/Nourish_media/screen-114.jpg",
+      "pending": false
+    },
+    {
+      "id": "screen-115",
+      "title": "真相捕捉",
+      "en": "The Capture",
+      "kind": "影视",
+      "genre": "剧集 / 惊悚",
+      "tags": [
+        "冷杉",
+        "杜松子"
+      ],
+      "quadrants": [
+        "凛冽",
+        "暗涌"
+      ],
+      "summary": "监控影像似乎撒谎，真相与深度伪造不断反转。",
+      "rec": "很适合现在看：它会让你不再轻信视频。",
+      "year": "",
+      "creatorZh": "",
+      "creatorEn": "",
+      "creatorRole": "",
+      "image": "resources/Nourish_media/screen-115.jpg",
+      "pending": false
+    },
+    {
+      "id": "screen-116",
+      "title": "继承之战",
+      "en": "Succession",
+      "kind": "影视",
+      "genre": "剧集 / 黑色喜剧",
+      "tags": [
+        "沉香",
+        "威士忌"
+      ],
+      "quadrants": [
+        "温柔"
+      ],
+      "summary": "传媒巨头家族为权力互相羞辱、背叛又离不开彼此。",
+      "rec": "台词像刀，角色像灾难，太好看。",
+      "year": "",
+      "creatorZh": "",
+      "creatorEn": "",
+      "creatorRole": "",
+      "image": "resources/Nourish_media/screen-116.jpg",
+      "pending": false
+    },
+    {
+      "id": "screen-117",
+      "title": "密会",
+      "en": "Secret Love Affair",
+      "kind": "影视",
+      "genre": "韩剧 / 爱情",
+      "tags": [
+        "鸢尾根",
+        "丝绒玫瑰"
+      ],
+      "quadrants": [
+        "华丽"
+      ],
+      "summary": "中年女高管与天才青年钢琴家之间的禁忌关系。",
+      "rec": "克制、性感，钢琴也像第三个主角。",
+      "year": "",
+      "creatorZh": "",
+      "creatorEn": "",
+      "creatorRole": "",
+      "image": "resources/Nourish_media/screen-117.jpg",
+      "pending": false
+    },
+    {
+      "id": "screen-118",
+      "title": "呼啸山庄",
+      "en": "Wuthering Heights",
+      "kind": "影视",
+      "genre": "影视/文学改编",
+      "tags": [
+        "乳香",
+        "冷杉"
+      ],
+      "quadrants": [
+        "青涩"
+      ],
+      "summary": "希斯克利夫与凯瑟琳的爱情被拍成阴郁哥特激情。",
+      "rec": "选一个口碑版本，准备好接受不健康的爱。",
+      "year": "",
+      "creatorZh": "",
+      "creatorEn": "",
+      "creatorRole": "",
+      "image": "resources/Nourish_media/screen-118.jpg",
+      "pending": false
+    },
+    {
+      "id": "screen-119",
+      "title": "狂爱情挑",
+      "en": "En plein cœur / In All Innocence",
+      "kind": "影视",
+      "genre": "电影 / 法国 / 犯罪爱情",
+      "tags": [
+        "威士忌",
+        "紫罗兰"
+      ],
+      "quadrants": [
+        "华丽"
+      ],
+      "summary": "皮埃尔·若利韦改编西默农小说：一段隐秘关系与一桩罪案彼此缠绕，真相越接近越危险。",
+      "rec": "法式冷感与犯罪张力并行，适合想看不安爱情时选它。",
+      "year": "1999",
+      "creatorZh": "皮埃尔·若利韦",
+      "creatorEn": "Pierre Jolivet",
+      "creatorRole": "导演",
+      "image": "resources/Nourish_media/screen-119.jpg",
+      "pending": false
+    },
+    {
+      "id": "screen-120",
+      "title": "布里奇顿第四季",
+      "en": "Bridgerton Season 4",
+      "kind": "影视",
+      "genre": "剧集 / 古装爱情",
+      "tags": [
+        "晚香玉",
+        "丝绒玫瑰"
+      ],
+      "quadrants": [
+        "华丽"
+      ],
+      "summary": "摄政时代的浪漫宇宙续篇，具体播出信息请以平台为准。",
+      "rec": "适合华丽服装与慢热恋爱。",
+      "year": "",
+      "creatorZh": "",
+      "creatorEn": "",
+      "creatorRole": "",
+      "image": "resources/Nourish_media/screen-120.jpg",
+      "pending": false
+    },
+    {
+      "id": "screen-121",
+      "title": "孤山独影",
+      "en": "Cairn",
+      "kind": "其他",
+      "genre": "Steam 游戏 / 生存攀岩",
+      "tags": [
+        "雪松",
+        "冷杉"
+      ],
+      "quadrants": [
+        "青涩"
+      ],
+      "summary": "在无情的神之山上，攀岩者艾瓦必须规划每一次落手、管理有限资源，并决定登顶究竟值不值得。",
+      "rec": "把它留给一个完整、不被打断的游戏夜；它的孤寂和辽阔都需要时间。",
+      "year": "2026",
+      "creatorZh": "The Game Bakers",
+      "creatorEn": "The Game Bakers",
+      "creatorRole": "开发商",
+      "image": "resources/Nourish_media/screen-121.jpg",
+      "pending": false
+    },
+    {
+      "id": "screen-122",
+      "title": "美食、祈祷和恋爱",
+      "en": "Eat Pray Love",
+      "kind": "影视",
+      "genre": "电影 / 自我寻找",
+      "tags": [
+        "佛手柑",
+        "烤栗子"
+      ],
+      "quadrants": [
+        "华丽"
+      ],
+      "summary": "女性在意大利、印度、巴厘岛重新寻找快乐与关系。",
+      "rec": "旅行欲的舒缓剂，别期待它很复杂。",
+      "year": "2010",
+      "creatorZh": "萊恩·墨菲",
+      "creatorEn": "Ryan Murphy",
+      "creatorRole": "导演",
+      "image": "resources/Nourish_media/screen-122.jpg",
+      "pending": false
+    },
+    {
+      "id": "screen-123",
+      "title": "巅峰对决",
+      "en": "Heated Rivalry",
+      "kind": "影视",
+      "genre": "加拿大剧集 / 剧情爱情 / 2025 / 1 季",
+      "tags": [
+        "丝绒玫瑰",
+        "旧皮革"
+      ],
+      "quadrants": [
+        "华丽"
+      ],
+      "summary": "两位冰球劲敌在漫长赛季与隐秘关系之间周旋；竞技场上的对抗，映照出亲密关系里更难说出口的渴望。",
+      "rec": "冰球、慢热、宿敌变恋人：如果你喜欢情感张力一路拉满的剧，这部很对。",
+      "year": "2025",
+      "creatorZh": "雅各布·蒂尔尼",
+      "creatorEn": "Jacob Tierney",
+      "creatorRole": "主创／导演",
+      "image": "resources/Nourish_media/screen-123.jpg",
+      "pending": false
+    },
+    {
+      "id": "screen-124",
+      "title": "德雷尔一家",
+      "en": "The Durrells",
+      "kind": "影视",
+      "genre": "英剧 / 家庭",
+      "tags": [
+        "桂花",
+        "佛手柑"
+      ],
+      "quadrants": [
+        "温柔"
+      ],
+      "summary": "一家人搬到科孚岛，开始混乱、贫穷又明亮的新生活。",
+      "rec": "像阳光晒过的柠檬，轻快又有点酸。",
+      "year": "",
+      "creatorZh": "",
+      "creatorEn": "",
+      "creatorRole": "",
+      "image": "resources/Nourish_media/screen-124.jpg",
+      "pending": false
+    },
+    {
+      "id": "screen-126",
+      "title": "与玛格丽特的午后",
+      "en": "My Afternoons with Margueritte",
+      "kind": "影视",
+      "genre": "电影 / 温情",
+      "tags": [
+        "洋甘菊",
+        "烤栗子"
+      ],
+      "quadrants": [
+        "温柔"
+      ],
+      "summary": "粗犷的中年男人与老太太因阅读建立友谊。",
+      "rec": "温柔得像一张不会催你进步的长椅。",
+      "year": "",
+      "creatorZh": "",
+      "creatorEn": "",
+      "creatorRole": "",
+      "image": "resources/Nourish_media/screen-126.jpg",
+      "pending": false
+    },
+    {
+      "id": "screen-127",
+      "title": "白莲花度假村",
+      "en": "The White Lotus",
+      "kind": "影视",
+      "genre": "剧集 / 黑色讽刺",
+      "tags": [
+        "晚香玉",
+        "威士忌"
+      ],
+      "quadrants": [
+        "青涩"
+      ],
+      "summary": "豪华度假村里，阶级、欲望与自恋在阳光下慢慢发臭。",
+      "rec": "每季换地点，尴尬与恶意都更高级。",
+      "year": "",
+      "creatorZh": "",
+      "creatorEn": "",
+      "creatorRole": "",
+      "image": "resources/Nourish_media/screen-127.jpg",
+      "pending": false
+    },
+    {
+      "id": "screen-128",
+      "title": "和沙莫的500天",
+      "en": "(500) Days of Summer",
+      "kind": "影视",
+      "genre": "电影 / 重复条目",
+      "tags": [
+        "白桃",
+        "紫罗兰"
+      ],
+      "quadrants": [
+        "华丽"
+      ],
+      "summary": "与前条“和沙莫的五百天”为同一作品，已合并。",
+      "rec": "只留一个入口，省一次搜索。",
+      "year": "",
+      "creatorZh": "",
+      "creatorEn": "",
+      "creatorRole": "",
+      "image": "resources/Nourish_media/screen-128.jpg",
+      "pending": false
+    },
+    {
+      "id": "screen-129",
+      "title": "Heartstopper",
+      "en": "心跳漏一拍",
+      "kind": "影视",
+      "genre": "剧集 / 青春爱情",
+      "tags": [
+        "白桃",
+        "洋甘菊"
+      ],
+      "quadrants": [
+        "华丽"
+      ],
+      "summary": "两位英国男孩在校园里确认友情、爱情与自我。",
+      "rec": "很温柔地讲成长，像被好好抱一下。",
+      "year": "",
+      "creatorZh": "",
+      "creatorEn": "",
+      "creatorRole": "",
+      "image": "resources/Nourish_media/screen-129.jpg",
+      "pending": false
+    },
+    {
+      "id": "screen-130",
+      "title": "A Netflix documentary: our father",
+      "en": "Our Father",
+      "kind": "影视",
+      "genre": "纪录片 / 犯罪",
+      "tags": [
+        "冷杉",
+        "乳香"
+      ],
+      "quadrants": [
+        "凛冽",
+        "暗涌"
+      ],
+      "summary": "聚焦生殖医生以欺骗方式让众多患者受孕的案件。",
+      "rec": "令人愤怒，也提醒人们医疗权力的边界。",
+      "year": "",
+      "creatorZh": "",
+      "creatorEn": "",
+      "creatorRole": "",
+      "image": "resources/Nourish_media/screen-130.jpg",
+      "pending": false
+    },
+    {
+      "id": "screen-131",
+      "title": "夜颂",
+      "en": "Hymns to the Night",
+      "kind": "书籍",
+      "genre": "诗集 / 诺瓦利斯",
+      "tags": [
+        "乳香",
+        "焙茶"
+      ],
+      "quadrants": [
+        "幽微"
+      ],
+      "summary": "六首散文诗将死亡、爱与夜晚写成通往无限的入口，是德国早期浪漫主义最幽暗也最发光的作品之一。",
+      "rec": "适合夜深后慢读：它不解释黑暗，而是教人如何在黑暗里看见光。",
+      "year": "",
+      "creatorZh": "",
+      "creatorEn": "",
+      "creatorRole": "",
+      "image": "resources/Nourish_media/screen-131.jpg",
+      "pending": false
+    },
+    {
+      "id": "screen-132",
+      "title": "为什么是你",
+      "en": "Why Him?",
+      "kind": "影视",
+      "genre": "电影 / 喜剧",
+      "tags": [
+        "佛手柑",
+        "烤栗子"
+      ],
+      "quadrants": [
+        "温柔"
+      ],
+      "summary": "准女婿与岳父之间的荒诞对抗。",
+      "rec": "很适合不想动脑的晚上。",
+      "year": "2017",
+      "creatorZh": "約翰·漢堡",
+      "creatorEn": "John Hamburg",
+      "creatorRole": "导演",
+      "image": "resources/Nourish_media/screen-132.jpg",
+      "pending": false
+    },
+    {
+      "id": "screen-133",
+      "title": "你能看到一切",
+      "en": "You Can See Everything",
+      "kind": "影视",
+      "genre": "纪录片 / 2026",
+      "tags": [
+        "羊皮纸"
+      ],
+      "quadrants": [
+        "青涩"
+      ],
+      "summary": "2026 年纪录片。",
+      "rec": "先留给想看真实世界、也愿意耐心进入一个具体视角的时刻。",
+      "year": "",
+      "creatorZh": "",
+      "creatorEn": "",
+      "creatorRole": "",
+      "image": "resources/Nourish_media/screen-133.jpg",
+      "pending": false
+    },
+    {
+      "id": "screen-134",
+      "title": "解禁男女",
+      "en": "Love and Leashes",
+      "kind": "影视",
+      "genre": "电影 / 浪漫喜剧",
+      "tags": [
+        "丝绒玫瑰",
+        "佛手柑"
+      ],
+      "quadrants": [
+        "华丽"
+      ],
+      "summary": "职场同事围绕 BDSM 兴趣建立互信与关系。",
+      "rec": "意外地轻松、尊重边界。",
+      "year": "",
+      "creatorZh": "",
+      "creatorEn": "",
+      "creatorRole": "",
+      "image": "resources/Nourish_media/screen-134.jpg",
+      "pending": false
+    },
+    {
+      "id": "screen-135",
+      "title": "Off Campus",
+      "en": "Off Campus",
+      "kind": "影视",
+      "genre": "剧集 / Prime Video / 校园爱情",
+      "tags": [
+        "白桃",
+        "青苹果"
+      ],
+      "quadrants": [
+        "华丽"
+      ],
+      "summary": "改编自 Elle Kennedy 小说：冰球队王牌 Garrett 与不爱冰球的 Hannah 在 Briar University 展开一段意外靠近的关系。",
+      "rec": "冰场、青春和慢热化学反应；适合想看轻松却不轻飘的校园恋爱。",
+      "year": "2026",
+      "creatorZh": "路易莎·利维",
+      "creatorEn": "Louisa Levy",
+      "creatorRole": "主创",
+      "image": "resources/Nourish_media/screen-135.jpg",
+      "pending": false
+    },
+    {
+      "id": "screen-136",
+      "title": "紧急呼救",
+      "en": "9-1-1",
+      "kind": "影视",
+      "genre": "剧集 / 急救",
+      "tags": [
+        "冷杉",
+        "洋甘菊"
+      ],
+      "quadrants": [
+        "青涩"
+      ],
+      "summary": "洛杉矶急救人员处理灾难，也处理自己的生活。",
+      "rec": "案件离谱但很上头，适合长期追。",
+      "year": "2018",
+      "creatorZh": "萊恩·墨菲",
+      "creatorEn": "Ryan Murphy",
+      "creatorRole": "创作者",
+      "image": "resources/Nourish_media/screen-136.jpg",
+      "pending": false
+    },
+    {
+      "id": "screen-137",
+      "title": "崔起乡到烛镇",
+      "en": "Lark Rise to Candleford",
+      "kind": "影视",
+      "genre": "英剧 / 时代",
+      "tags": [
+        "桂花",
+        "焙茶"
+      ],
+      "quadrants": [
+        "青涩"
+      ],
+      "summary": "乡村女孩在维多利亚时代的乡镇之间成长与观察。",
+      "rec": "节奏温和，适合需要安静陪伴。",
+      "year": "",
+      "creatorZh": "",
+      "creatorEn": "",
+      "creatorRole": "",
+      "image": "resources/Nourish_media/screen-137.jpg",
+      "pending": false
+    },
+    {
+      "id": "screen-138",
+      "title": "Who’s Afraid of Virginia Woolf?",
+      "en": "谁害怕弗吉尼亚·伍尔夫？",
+      "kind": "其他",
+      "genre": "戏剧 / 爱德华·阿尔比",
+      "tags": [
+        "威士忌",
+        "乳香"
+      ],
+      "quadrants": [
+        "青涩"
+      ],
+      "summary": "一对夫妻深夜互相撕扯，也把年轻客人卷入幻觉与真相。",
+      "rec": "语言战极狠，最好读剧本或看舞台版。",
+      "year": "",
+      "creatorZh": "",
+      "creatorEn": "",
+      "creatorRole": "",
+      "image": "resources/Nourish_media/screen-138.jpg",
+      "pending": false
+    },
+    {
+      "id": "screen-139",
+      "title": "魅影缝匠",
+      "en": "Phantom Thread",
+      "kind": "影视",
+      "genre": "电影 / 剧情 / 爱情",
+      "tags": [
+        "鸢尾根",
+        "丝绒玫瑰",
+        "乳香"
+      ],
+      "summary": "1950 年代伦敦，苛刻的高级时装设计师雷诺兹·伍德科克遇见阿尔玛；爱情、控制与照料在精密的礼服针脚里彼此反转。",
+      "rec": "华美、尖刻又暗含危险：适合留给一个安静、讲究光线的夜晚。",
+      "year": "2017",
+      "creatorZh": "保罗·托马斯·安德森",
+      "creatorEn": "Paul Thomas Anderson",
+      "creatorRole": "导演／编剧",
+      "image": "https://cdn.posteritati.com/posters/000/000/064/230/phantom-thread-md-web.jpg",
+      "pending": false
+    },
+    {
+      "id": "book-126",
+      "title": "拉康选集",
+      "en": "Écrits: A Selection",
+      "kind": "书籍",
+      "genre": "精神分析 / 文集",
+      "tags": [
+        "羊皮纸",
+        "乳香",
+        "威士忌"
+      ],
+      "summary": "收录雅克·拉康的重要论文，以语言、无意识、主体与欲望重新组织精神分析的核心问题。此处采用 2019 年华东师范大学出版社修订版。",
+      "rec": "不要试图一口气读完；挑一篇，与可靠导读并读会更有收获。",
+      "year": "2019",
+      "creatorZh": "雅克·拉康／褚孝泉",
+      "creatorEn": "Jacques Lacan / Chu Xiaoquan",
+      "creatorRole": "作者／译者",
+      "image": "https://bkimg.cdn.bcebos.com/smart/1c950a7b02087bf40ad1d499a687402c11dfa9ec613c-bkimg-process%2Cv_1%2Crw_1%2Crh_1%2Cpad_1%2Ccolor_ffffff?x-bce-process=image%2Fformat%2Cf_auto",
+      "pending": false
+    }
+  ],
+  "scents": {
+    "雪松": [
+      "凛冽",
+      "清冷、笔直的秩序感，像北欧冬日的寂静。"
+    ],
+    "冷杉": [
+      "凛冽",
+      "冬日荒野的肃杀，孤独漫游者与冷峻自然主义。"
+    ],
+    "白桦": [
+      "凛冽",
+      "苍白、极简、带寒意的纯净，隐约有焦油烟熏感。"
+    ],
+    "杜松子": [
+      "凛冽",
+      "金酒般冷冽辛香，现代都市的疏离、理智与讽刺。"
+    ],
+    "香根草": [
+      "凛冽",
+      "干燥根系的深沉，不带甜味的硬朗与沧桑。"
+    ],
+    "丝绒玫瑰": [
+      "华丽",
+      "爱恨张力、古典戏剧感与带刺的浪漫。"
+    ],
+    "晚香玉": [
+      "华丽",
+      "危险诱惑、夜色肉欲与令人窒息的深情。"
+    ],
+    "鸢尾根": [
+      "华丽",
+      "老电影的粉感回忆，克制贵气而带忧郁。"
+    ],
+    "紫罗兰": [
+      "华丽",
+      "褪色旧情书般的含蓄伤感与精致脆弱。"
+    ],
+    "依兰": [
+      "华丽",
+      "热带潮湿昏沉、殖民地往事与午后秘密。"
+    ],
+    "栀子花": [
+      "华丽",
+      "南方潮湿夏夜，纯洁表象下浓烈而哀伤的深情。"
+    ],
+    "藏红花": [
+      "华丽",
+      "异域史诗、血液与黄金，宗教般的狂热与悲壮。"
+    ],
+    "檀香": [
+      "幽微",
+      "温润内敛的东方式哲思，时间沉淀后的平静。"
+    ],
+    "乳香": [
+      "幽微",
+      "教堂穹顶般的神性、灵魂拷问与肃穆救赎。"
+    ],
+    "沉香": [
+      "幽微",
+      "幽暗历史与权力深处，像无法见底的废墟。"
+    ],
+    "广藿香": [
+      "幽微",
+      "潮湿旧书页、古董店与波西米亚式的陈年记忆。"
+    ],
+    "焙茶": [
+      "幽微",
+      "留白、克制告别与日常中的微澜。"
+    ],
+    "竹叶": [
+      "幽微",
+      "幽深山林、自然哲学与无人处生长的时间。"
+    ],
+    "羊皮纸": [
+      "幽微",
+      "手稿、书斋与知识分子的精神世界。"
+    ],
+    "无花果": [
+      "青涩",
+      "青绿微苦与奶香交织，慵懒、青涩而微妙性感。"
+    ],
+    "橙花": [
+      "青涩",
+      "阳光下的白衬衫、干净少年感与一丝清苦。"
+    ],
+    "佛手柑": [
+      "青涩",
+      "轻快机智、灵动不沉重的都市浪漫。"
+    ],
+    "白桃": [
+      "青涩",
+      "初恋般柔软甜美，也带易碎的青春泡沫。"
+    ],
+    "青苹果": [
+      "青涩",
+      "脆生生的生命力、校园冲动与直白勇气。"
+    ],
+    "番茄叶": [
+      "青涩",
+      "盛夏乡野、暑假汗水与阳光蒸腾的鲜活记忆。"
+    ],
+    "黑加仑": [
+      "青涩",
+      "酸甜交织的锐利感、叛逆青春与野性活力。"
+    ],
+    "柠檬草": [
+      "青涩",
+      "清晨微风、透明田园与轻盈的日常治愈。"
+    ],
+    "烟草": [
+      "暗涌",
+      "旧时代浪子、深夜独白与不言而喻的往事。"
+    ],
+    "旧皮革": [
+      "暗涌",
+      "公路、马鞍与风尘仆仆的漂泊感。"
+    ],
+    "威士忌": [
+      "暗涌",
+      "微醺坦白、小酒馆、危险浪漫与放纵。"
+    ],
+    "肉桂": [
+      "暗涌",
+      "冬夜壁炉、秘密结社与温暖中的诡谲。"
+    ],
+    "篝火": [
+      "暗涌",
+      "荒野求生、毁灭与重生、原始人性羁绊。"
+    ],
+    "黑咖啡": [
+      "暗涌",
+      "不眠都市、疲惫清醒与侦探事务所的夜。"
+    ],
+    "黑可可": [
+      "暗涌",
+      "微苦的成人童话、复杂人性与欲望深渊。"
+    ],
+    "香草": [
+      "温柔",
+      "壁炉旁童年故事般的安全感与温暖包容。"
+    ],
+    "蜂蜜": [
+      "温柔",
+      "金色阳光、丰收乡愁与长久亲情。"
+    ],
+    "杏仁": [
+      "温柔",
+      "秋日毛衣般的暖意、细腻体贴的人情味。"
+    ],
+    "桂花": [
+      "温柔",
+      "中国式秋日怀旧、老街巷与含蓄甜美的日常幸福。"
+    ],
+    "烤栗子": [
+      "温柔",
+      "大地丰收、质朴劳动与食物带来的暖意。"
+    ],
+    "焦糖": [
+      "温柔",
+      "节日欢聚、童话感与炉火边的安心烟火气。"
+    ],
+    "白麝香": [
+      "温柔",
+      "贴肤体温、晒过的棉被与无声陪伴。"
+    ],
+    "洋甘菊": [
+      "温柔",
+      "深夜安抚、脆弱时刻与不说教的疗愈。"
+    ]
+  }
+}
