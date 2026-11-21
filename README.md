@@ -9,6 +9,7 @@ A small personal archive of books, films, and things that linger. Hope you find 
 This is a crude preview of my personal gallery, you're warmly invited to make your version by adding beautiful pieces you'd like to keep, give them your own scents, notes and more...
 
 ## How to use (AI写的，随便看看)
+https://geekymicky.github.io/nourish-gallery/
 
 1. 打开网页后，可以直接搜索、按类型浏览，或通过气味标签探索作品。  
    Open the page to search, browse by category, or explore through scent tags.
